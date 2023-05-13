@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/ico" href="favicon.ico"/>
+	</head>
+	<body bgcolor="#EFEFEF">
+		<div align="center">
+		<table width="1200">
+		<td bgcolor="white" height="100" valign="top">
+		<div align="left">
+		<img src="Logo_new.png" alt="Lycée" width="650"/>
+		<img align="right" src="Journal2.PNG" alt="pablonews" width="350"/>
+		<br><br><br><br>
+			<div align="center">
+			<a id="pages" style="font-size: 25px" href="Accueil.html">ACCUEIL</a>
+			<a id="pages" style="font-size: 25px" href="Notre Equipe.html">NOTRE EQUIPE</a>
+			<a id="pages" style="font-size: 25px" href="Notre Journal.html">NOTRE JOURNAL</a>
+			<a id="pages" style="font-size: 25px" href="Notre Reglement.html">NOTRE REGLEMENT</a>
+			<br><br><br><br>
+			<div align="center">
+		</td>
+		<tr>
+		<td bgcolor="white" height="300" valign="top">
+		
+		<div align="center">
+		<h1 id="titleprincipal"><strong>PABLONEWS : L'ACTU LYCEENNE</strong></h1>
+		<h1 id="title" style="font-size: 50px">NOTRE JOURNAL</h1>
+		<br>
+		<div align="left">
+		<p style="font-size: 20px">Aucun ouvrage n'a été publié</p>
+		<img align="left" src="images.jpg" alt="news" width="80 "/><p style="font-size: 35px" id="numjournal">JOURNAL DE SEPTEMBRE 2022</p>
+		<br>
+		<a class="container" id="journal1" href="Erreur.html">
+		Feuilleter (NON DISPONIBLE)
+		<a/>
+		<br><br>
+		
+		<a href="#" class="lienjournal">Lire l'Article</a>
+		
+		
+		
+		
+		
+		
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br>
+	</body>
+</html>
+<div align="center">
+<img src="SPS-Pablo-Neruda-4-scaled.jpg" alt="Lycée Pablo Néruda" width="1000"/>

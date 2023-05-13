@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/ico" href="favicon.ico"/>
+		<meta name='viewport' content='width=device-width, initial-scale=1'>
+		<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+	</head>
+	<body bgcolor="#EFEFEF">
+		<div align="center">
+		<table width="1200">
+		<td bgcolor="white" height="100" valign="top">
+		<div align="left">
+		<img src="Logo_new.png" alt="Lycée" width="650"/>
+		<img align="right" src="Journal2.PNG" alt="pablonews" width="350"/>
+		<br><br><br><br>
+			<div align="center">
+			<a id="pages" style="font-size: 25px" href="Accueil.html" width="150">ACCUEIL</a>
+			<a id="pages" style="font-size: 25px" href="Notre Equipe.html">NOTRE EQUIPE</a>
+			<a id="pages" style="font-size: 25px" href="Notre Journal.html">NOTRE JOURNAL</a>
+			<a id="pages" style="font-size: 25px" href="Notre Reglement.html">NOTRE REGLEMENT</a>
+			<br><br><br><br>
+			<div align="center">
+		</td>
+		<tr>
+		<td bgcolor="white" height="300" valign="top">
+		<div align="center">
+		<h1 id="titleprincipal">PABLONEWS : L'ACTU LYCEENNE</h1>
+		
+		
+		<div class="notify-preview">
+		
+			<div class="notify-single">
+				<div class="notify-single-icon">
+					<i class="fa-solid fa-exclamation-circle"></i>
+				</div>
+				
+				<div class="notify-signe-info">
+					<div class="notify-title"><strong>Erreur !</strong></div>
+					<div class="notify-info">La page que vous recherchez n'est pas disponible</div>
+				</div>
+				
+				<div class="notify-single-icon close">
+					<i class="fa-solid fa-xmark"></i>
+				</div>
+				
+				
+				
+				<div>
+			</div>
+		
+		</div>
+		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script src="scripts.js"></script>	 
+		
+		
+		<br><br><br><br><br><br><br><br><br>
+	</body>
+</html>

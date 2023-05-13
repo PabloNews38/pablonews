@@ -1,0 +1,120 @@
+h2
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: #0B1616
+}
+h3
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: red
+}
+body
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: black
+}
+#titleprincipal
+{
+	font-family: Nexa Bold, Nexa Light, Cloud World, arial, BankGothic Lt BT, verdana;
+	color: #0B1616
+}
+#pages
+{
+	text-align: center;
+	text-decoration: none;
+	border: 5px solid #7fd3fa;
+	padding: 1rem 2rem;
+	border-radius: 8px;
+	transition: all 0.2s;
+	background-color: white;
+	color: black;
+	font-family: Cloud World, Nexa Light, BankGothic Lt BT, arial, verdana;
+}
+#pages:hover
+{
+	background-color: #7fd3fa;
+	color: white;
+}
+#title
+{
+	text-align: center;
+	background-color: white;
+	color: red;
+	font-family: Anton, Cloud World, Nexa Light, BankGothic Lt BT, arial, verdana
+}
+#poste
+{
+	font-family: Cloud World, Anton, BankGothic Lt BT, arial;
+	color: red;
+}
+#name
+{
+	font-family: Cloud World, Anton, BankGothic Lt BT, arial;
+}
+#numjournal
+{
+	font-family: Cloud World, BankGothic Lt BT, arial;
+}
+#journal1
+{
+	text-decoration: none;
+	font-family: Cloud World, BankGothic Lt BT, arial;
+	font-size: 25px;
+	border: 2px solid #FF4754;
+	padding: 1rem 2rem;
+	border-radius: 4px;
+	transition: all 0.2s;
+	width: 300px;
+}
+#journal1:hover
+{
+	background-color: #FF4754;
+	color: white;
+}
+.notify-preview
+{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	width: 480px;
+	background-color: #ecf0f1;
+	height: 130px;
+	padding: 16px;
+}
+.notify-single
+{
+	display: flex;
+	align-items: center;
+	width: 100%;
+	border-left: 4px solid #c92e2e;
+	background-color: #fff;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.24);
+}
+.notify-single-icon
+{
+	height: 50px;
+	width: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.notify-single-info
+{
+	flex-grow: 1;
+	padding: 15px 0px;
+}
+.notify-single-info .notify-title
+{
+	font-weight: bold;
+}
+.notify-single .notify-single-icon
+{
+	color: #c92e2e;
+}
+.notify-single .notify-single-icon.close
+{
+	color: #95a5a6
+}

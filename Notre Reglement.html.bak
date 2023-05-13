@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/ico" href="favicon.ico"/>
+	</head>
+	<body bgcolor="#EFEFEF">
+		<div align="center">
+		<table width="1200">
+		<td bgcolor="white" height="100" valign="top">
+		<div align="left">
+		<img src="Logo_new.png" alt="Lycée" width="650"/>
+		<img align="right" src="Journal2.PNG" alt="pablonews" width="350"/>
+		<br><br><br><br>
+			<div align="center">
+			<a id="pages1" style="font-size: 25px" href="Accueil.html" width="150">ACCUEIL</a>
+			<a id="pages2" style="font-size: 25px" href="Notre Equipe.html">NOTRE EQUIPE</a>
+			<a id="pages3" style="font-size: 25px" href="Notre Journal.html">NOTRE JOURNAL</a>
+			<a id="pages4" style="font-size: 25px" href="Notre Reglement.html">NOTRE REGLEMENT</a>
+			<br><br><br><br>
+			<div align="center">
+		</td>
+		<tr>
+		<td bgcolor="white" height="300" valign="top">
+		
+		<div align="center">
+		<h1 id="titleprincipal"><strong>PABLONEWS : L'ACTU LYCEENNE</strong></h1>
+		<h1 id="title" style="font-size: 50px">NOTRE REGLEMENT</h1>
+		<br>
+		<div align="left">
+		<p><strong>TITRE PREMIER — Composition de PabloNews</strong></p>
+		<p><strong>Article 1 — Bureau</strong></p>
+		<p>Le Président représente PabloNews, il est le garant de son intégrité morale et des actions qui peuvent être faites en son nom. Le Président gère l’organisation et le bon fonctionnement du Bureau. Le Président conduit l’action de PabloNews. Il est assisté par le Vice-Président. Il est chargé d’exécuter les décisions prises par la Commission Direction. En cas d’indisponibilité, c’est au Vice-Président que revient cette charge. Dans le silence des statuts, et du présent règlement, il a compétence pour nommer un adhérent, et lui donner des attributions, à n’importe quel poste de l’association. Il peut redistribuer les rôles au sein des Commissions pour optimiser le fonctionnement de l’association, ainsi que démettre de ses fonctions un directeur de pôle s’il n’administre pas son pôle convenablement, après consultation des membres de la Commission Discipline. Il veille à faire respecter le présent Règlement Intérieur. Le Président a un regard sur les articles qui sont publiés sur le site Internet de PabloNews. Il est membre de la Commission Direction.</p>
+		<p>Le Vice-Président assiste le Président dans l’exercice de ses fonctions. Le Vice-Président coordonne l’action du Bureau. Il peut se substituer au Président dans toutes les tâches décisionnelles avec accord de ce dernier. Le Vice-Président est chargé du contenu éditorial publié sur le site Internet de PabloNews, il est le Directeur de la Rédaction. Il est membre de la Commission Direction.</p>
+		<p>Le Directeur Général est chargé de la Commission Ressources Humaines et de la gestion des activités des membres de cette Commission. Il rédige les procès-verbaux des réunions du Bureau, des Commissions. Le Secrétaire Général est chargé de la gestion de PabloNews sous le contrôle du Bureau. Il est membre de la Commission Direction.</p>
+		<p>Le Directeur de la Rédaction est en charge de la Rédaction : le web, le magazine papier. Il dirige la Commission Rédaction (composé des rédacteurs en chef adjoint, des référents thématiques) et supervise la Rédaction en générale. Il doit rendre des comptes au Président et veiller au bon fonctionnement de l’activité et des contenus de la Rédaction.</p>
+		<p><strong>Article 2 — Conseil d'Administration</strong></p>
+		<p><strong>Article 2.1 - La Commission Rédaction</strong></p>
+		<p>Les Rédacteurs en chef sont nommés par le Président et le Directeur de la Rédaction. Ils supervisent le travail de la Rédaction et assurent le fonctionnement de leurs pôles respectifs (web et papier). Le Président et le Directeur de la Rédaction sont en droit de demander (individuellement ou collectivement) aux Rédacteurs en chef de rendre compte de l’avancée de leurs tâches. Ils sont membres de la Commission Rédaction.</p>
+		<p>Le Directeur de production est nommé par le Président et le Directeur de la Rédaction. Il supervise le travail des chargés de la Rédaction, assure le fonctionnement de leurs pôles respectifs (web et papier), et assure le fonctionnement de la publication des ouvrages du journal. Le Président et le Directeur de la Rédaction sont en droit de demander (individuellement ou collectivement) au Directeur de Production de rendre compte de l’avancée de leurs tâches. Il est membre de la Commission Rédaction.</p>
+		<p><strong>Article 2.2 - La Commission Ressources Humaines</strong></p>
+		<p>Le Directeur des Ressources Humaines est nommé par le Président et le Directeur Général. Il est chargé d’accueillir et d’orienter les nouveaux adhérents de PabloNews. Il est en droit de démettre de son poste un adhérent après consultation avec le Directeur de Production. Le Président et le Directeur de la Rédaction sont en droit de demander au Directeur des Ressources Humaines de rendre compte de l’avancée de ses tâches. Il est membre de la Commission Ressources Humaines</p>
+		<p>Le Directeur de la Communication est nommé par le Président et le Secrétaire Général. Il supervise le travail des chargés de projets et assurent le fonctionnement de son pôle (pôle Communication). Le Président et le Secrétaire Général sont en droit de demander au Directeur de la Communication de rendre compte de l’avancée de ses tâches. Il est membre de la Commission Ressources Humaines</p>
+		<p><strong>TITRE SECOND - Fonctionnement des pôles de PabloNews</strong></p>
+		<p><strong>Article 3 - La Rédaction : web et papier</strong></p>
+		<p>La Rédaction est dirigée par la Commission Rédaction. Le directeur de la Rédaction est assisté par deux rédacteurs en chef, pour le web et le magazine papier et par un directeur de production. Ils gèrent, observent, approuvent, décident du calendrier de publication et publient les contenus de leur pôle respectif avec le Directeur de la Rédaction. Ils veillent à faire respecter les règles déontologiques propres au journalisme. </p>
+		<p>Les Rédacteurs en Chefs sont en charge de la réception, du traitement, du référencement et de la correction des articles sous la supervision du Directeur de la Rédaction. Ils travaillent en collaboration avec le Directeur de la Communication pour le partage des articles sur le site internet de PabloNews</p>
+		<p>Le Directeur du la Communication est en charge de la communication extérieure de PabloNews. Il s’occupe d’accroître la visibilité de PabloNews. Il est en charge du site internet de PabloNews Il veille à mettre en place une stratégie globale de communication sur le long terme. Il s’applique également à mettre en place une dynamique de communication en interne autour des événements de PabloNews permettant de favoriser une cohérence de groupe.</p>
+		<p><strong>TITRE TROISIEME - Fonctionnement de PabloNews</strong></p>
+		<p><strong>Article 4 - Publication des articles</strong></p>
+		<p>PabloNews réunit des élèves qui se reconnaissent dans son objet. La publication des articles sur le site Internet de PabloNews est du ressort du Directeur de la Communication. Les Rédacteurs en chef, le Directeur de Production et le Directeur de la Rédaction sont les seules habilités à publier des articles.</p>
+		<p>Tout journaliste transmet son article à la Rédaction lors de la réunion mensuelle. L’auteur devra fournir une image, une source, un résumé de l’article dans laquelle son article sera publié. </p>
+		<p>Une fois l’article transmis à la Rédaction, le Directeur de la Rédaction, les Rédacteurs en chef et les Directeurs de Production sont en droit de demander aux auteurs de revoir leurs articles autant de fois que nécessaire, ainsi que d’invalider un article pour sa forme ou son contenu.</p>
+		<p><strong>Article 5 - Adhésion à PabloNews</strong></p>
+		<p>Pour adhérer à PabloNews, il faut remplir une Fiche d’Inscription. L’adhésion est renouvelable chaque année. Le Directeur des Ressources Humaines veille à ce que les nouveaux adhérents trouvent une bonne entente avec les membres de PabloNews</p>
+		<br><br>
+	</body>
+</html>
+<div align="center">
+<img src="SPS-Pablo-Neruda-4-scaled.jpg" alt="Lycée Pablo Néruda" width="1000"/>

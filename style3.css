@@ -1,0 +1,204 @@
+h2
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: #0B1616
+}
+h3
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: red
+}
+body
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: black
+}
+#titleprincipal
+{
+	font-family: Nexa Bold, Nexa Light, Cloud World, arial, BankGothic Lt BT, verdana;
+	color: #0B1616
+}
+#title
+{
+	text-align: center;
+	background-color: white;
+	color: red;
+	font-family: Anton, Cloud World, Nexa Light, BankGothic Lt BT, arial, verdana
+}
+#poste
+{
+	font-family: arial;
+	color: red;
+	font-size: 30px;
+}
+#name
+{
+	font-family: arial;
+	font-size: 30px;
+}
+#numjournal
+{
+	font-family: Cloud World, BankGothic Lt BT, arial;
+}
+#journal1
+{
+	text-decoration: none;
+	font-family: Cloud World, BankGothic Lt BT, arial;
+	font-size: 25px;
+	border: 2px solid #FF4754;
+	padding: 1rem 2rem;
+	border-radius: 4px;
+	transition: all 0.2s;
+	width: 300px;
+}
+#journal1:hover
+{
+	background-color: #FF4754;
+	color: white;
+}
+.notify-preview
+{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	width: 480px;
+	background-color: #ecf0f1;
+	height: 140px;
+	padding: 16px;
+}
+.notify-single
+{
+	display: flex;
+	align-items: center;
+	width: 100%;
+	border-left: 4px solid #c92e2e;
+	background-color: #fff;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.24);
+}
+.notify-single-icon
+{
+	height: 50px;
+	width: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.notify-single-info
+{
+	flex-grow: 1;
+	padding: 15px 0px;
+}
+.notify-single-info .notify-title
+{
+	font-weight: bold;
+}
+.notify-single .notify-single-icon
+{
+	color: #c92e2e;
+}
+.notify-single .notify-single-icon.close
+{
+	color: #95a5a6;
+}
+
+
+
+nav
+{
+	width: 100%;
+}
+
+nav > ul
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav > ul::after
+{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+nav > ul > li
+{
+	float: left;
+	position: relative;
+}
+
+nav > ul > li > a
+{
+	padding: 20px 30px;
+	color: #FFF;
+}
+
+nav > ul > li:hover a
+{
+	padding: 15px 30px 20px 30px;
+}
+
+nav li
+{
+	liqt-style-type: none;
+}
+
+.submenu
+{
+	display: none;
+}
+
+nav a
+{
+	diplay: inline-block;
+	text-decoration: none;
+}
+
+nav li:hover .submenu
+{
+	display: inline-block;
+	position: absolute;
+	top: 100%;
+	left: 0px;
+	padding: 0px;
+	z-index: 1000;
+}
+
+.submenu li
+{
+	border-bottom: 1px solid #CCC;
+}
+
+.submenu li a
+{
+	padding: 15px 30px;
+	font-size: 13px;
+	color: #222538;
+	width: 270px;
+}
+
+.pages:hover
+{
+	border-top: 5px solid #e44d26;
+	background-color: RGBa(288, 77, 38, 0.15);
+	margin: 0px auto 40px auto;
+}
+
+.pages .submenu
+{
+	background-color: RGB(230, 100, 40);
+}
+
+.submenu li:hover a
+{
+	color: #EEE;
+	font-weight: bold;
+}
+
+.pages .submenu li:hover
+{
+	background-color: RGB(210, 77, 60);
+}

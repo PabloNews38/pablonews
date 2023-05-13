@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/ico" href="favicon.ico"/>
+	</head>
+	<body bgcolor="#EFEFEF">
+		<div align="center">
+		<table width="1200">
+		<td bgcolor="white" height="100" valign="top">
+		<div align="left">
+		<img src="Logo_new.png" alt="Lycée" width="650"/>
+		<img align="right" src="Journal2.PNG" alt="pablonews" width="350"/>
+		<br><br><br><br>	
+			<div align="center">
+			<a id="pages" style="font-size: 25px" href="Accueil.html" width="150">ACCUEIL</a>
+			<a id="pages" style="font-size: 25px" href="Notre Equipe.html">NOTRE EQUIPE</a>
+			<a id="pages" style="font-size: 25px" href="Notre Journal.html">NOTRE JOURNAL</a>
+			<a id="pages" style="font-size: 25px" href="Notre Reglement.html">NOTRE REGLEMENT</a>
+			<br><br><br><br>
+			<div align="center">
+		</td>
+		<tr>
+		<td bgcolor="white" height="300" valign="top">
+		<div class="content">
+			<div class="alert alert-warning alert-white rounded">
+				<div class="icon"><i class="fa fa-info-circle"></i></div>
+				<strong>Information ! </strong>L'équipe de PabloNews recrute des lycéens/lycéennes volontaires pour participer au projet
+			</div>
+		</div>
+		<div align="center">
+		<h1 id="titleprincipal"><strong>PABLONEWS : L'ACTU LYCEENNE</strong></h1>
+		<h1 id="title" style="font-size: 50px">NOTRE EQUIPE</h1>
+		<br>
+		<div align="left">
+		<p id="name">Xavier FINI</p>
+		<p id="poste">Président de PabloNews</p>
+		<br><br>
+		<div align="left">
+		<p id="name">Alexi DAVID</p>
+		<p id="poste">Vice-Président de PabloNews</p>
+		<p id="poste">Directeur de la Rédaction</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur Général</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur des Ressources Humaines</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur de la Communication</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur de Production</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Rédacteur en Chef</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Journaliste</p>
+		<br><br>
+		<img src="PabloNews Direction - Made with PosterMyWall.png" alt="Commission Direction" width="500"/>
+		<div align="left">
+		<p id="name">Xavier FINI</p>
+		<p id="poste">Président de PabloNews</p>
+		<br><br>
+		<div align="left">
+		<p id="name">Alexi DAVID</p>
+		<p id="poste">Vice-Président de PabloNews</p>
+		<p id="poste">Directeur de la Rédaction</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur Général</p>
+		<br><br>
+		<img src="PabloNews Redaction - Made with PosterMyWall.png" alt="Commission Redaction" width="500"/>
+		<div align="left">
+		<p id="name">Xavier FINI</p>
+		<p id="poste">Président de PabloNews</p>
+		<br><br>
+		<div align="left">
+		<p id="name">Alexi DAVID</p>
+		<p id="poste">Vice-Président de PabloNews</p>
+		<p id="poste">Directeur de la Rédaction</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur Général</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur de Production</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Rédacteur en Chef</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Journaliste</p>
+		<br><br>
+		<img src="PabloNews RH - Made with PosterMyWall.png" alt="Commission RH" width="500"/>
+		<div align="left">
+		<p id="name">Xavier FINI</p>
+		<p id="poste">Président de PabloNews</p>
+		<br><br>
+		<div align="left">
+		<p id="name">Alexi DAVID</p>
+		<p id="poste">Vice-Président de PabloNews</p>
+		<p id="poste">Directeur de la Rédaction</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur Général</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur des Ressources Humaines</p>
+		<br><br>
+		<div align="left">
+		<p id="name">-</p>
+		<p id="poste">Directeur de la Communication</p>
+		<br><br>
+	</body>
+</html>
+<div align="center">
+<img src="SPS-Pablo-Neruda-4-scaled.jpg" alt="Lycée Pablo Néruda" width="1000"/>

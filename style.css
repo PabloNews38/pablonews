@@ -1,0 +1,221 @@
+h2
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: #0B1616
+}
+h3
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: red
+}
+body
+{
+	text-align: left;
+	font-family: arial, verdana;
+	color: black
+}
+#titleprincipal
+{
+	font-family: Nexa Bold, Nexa Light, Cloud World, arial, BankGothic Lt BT, verdana;
+	color: #0B1616
+}
+#title
+{
+	text-align: center;
+	background-color: white;
+	color: red;
+	font-family: Anton, Cloud World, Nexa Light, BankGothic Lt BT, arial, verdana
+}
+#poste
+{
+	font-family: arial;
+	color: red;
+	font-size: 30px;
+}
+#name
+{
+	font-family: arial;
+	font-size: 30px;
+}
+#numjournal
+{
+	font-family: Cloud World, BankGothic Lt BT, arial;
+}
+#journal1
+{
+	text-decoration: none;
+	font-family: Cloud World, BankGothic Lt BT, arial;
+	font-size: 25px;
+	border: 2px solid #FF4754;
+	padding: 1rem 2rem;
+	border-radius: 4px;
+	transition: all 0.2s;
+	width: 300px;
+	color: black;
+	
+}
+#journal1:hover
+{
+	background-color: #FF4754;
+	color: white;
+}
+.flotte {
+float:left;
+}
+.notify-preview
+{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	width: 480px;
+	background-color: #ecf0f1;
+	height: 140px;
+	padding: 16px;
+}
+.notify-single
+{
+	display: flex;
+	align-items: center;
+	width: 100%;
+	border-left: 4px solid #c92e2e;
+	background-color: #fff;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.24);
+}
+.notify-single-icon
+{
+	height: 50px;
+	width: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.notify-single-info
+{
+	flex-grow: 1;
+	padding: 15px 0px;
+}
+.notify-single-info .notify-title
+{
+	font-weight: bold;
+}
+.notify-single .notify-single-icon
+{
+	color: #c92e2e;
+}
+.notify-single .notify-single-icon.close
+{
+	color: #95a5a6;
+}
+.actu {
+	margin: 0;
+    padding: 0.3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.actu > h1 {
+	margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.7rem;
+}
+.forecast {
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.forecast1 {
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #FFFFFF;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.forecast > h1,
+.day-forecast {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.7rem;
+}
+
+.day-forecast {
+    background: right/contain content-box border-box no-repeat url('/media/examples/rain.svg') white;
+}
+
+.day-forecast > a {
+	text-decoration: none;
+	color: blue;
+    margin: 0.2rem;
+    font-size: 1.5rem;
+}
+.day-forecast > p {
+	text-decoration: none;
+	color: black;
+    margin: 0.2rem;
+    font-size: 1.3rem;
+}
+
+.menu {
+    height: 60px;
+    list-style: none;
+    padding: 10px;
+    margin: 40px;
+    text-align: center;
+    align: center;
+
+}
+
+.menu li {
+    float: left;
+    width: 210px;
+}
+
+.menu li a:link, .menu li a:visited {
+    display: block;
+    color: #FFF;
+    background: #293245;
+    padding: 6px 10px;
+    border-right: 1px solid #FFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+.menu li a:hover {background-color: #199BD2;}
+.menu li a:active {background-color: #808080;}
+
+.menu .sousmenu {
+    list-style-type: none;
+    display: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+}
+
+.menu .sousmenu li {
+    float: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid transparent;
+    border-right: 1px solid transparent;
+}
+
+.menu .sousmenu li a:link, .menu li a:visited {
+    display: block;
+    color: #FFF;
+    text-decoration: none;
+    background-color: #808080;
+}
+
+.menu .sousmenu li a:hover {
+    background-color: #199BD2;
+}
+
+.menu li a:hover {
+    background-color: #199BD2;
+}
+
+
+.menu li:hover .sousmenu {
+    display: block;
+}
