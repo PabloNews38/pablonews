@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/ico" href="favicon.ico"/>
+	</head>
+	<body bgcolor="#77B5FE">
+		<nav>
+		<ul>
+		<div align="center">
+		<table width="1200">
+		<td bgcolor="white" height="40" valign="top">
+		<br>
+		<div align="left">
+		<img src="Logo_new.png" alt="Lycée" width="650"/>
+		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="350"/>
+		<br><br>
+			<div align="center">
+			<ul class="menu">
+      			<li><a href="index.html">Accueil</a></li>
+      			<li><a href="#">Notre Equipe</a>
+        				<ul class="sousmenu">
+          				<li><a href="Notre Equipe.html">L'équipe de PabloNews</a></li>
+         					<li><a href="Notre Reglement.html">Règlement Général</a></li>
+          				<li><a href="#">Recrutement</a></li>
+        				</ul>
+      			</li>
+				<li><a href="#">Le Journal des Lycéens</a>
+        				<ul class="sousmenu">
+          				<li><a href="information-actualité.html">Information - Actualités</a></li>
+						<li><a href="Actualité CVL.html">Actualité CVL</a></li>
+						<li><a href="Actualité MDL.html">Actualité MDL</a></li>
+        				</ul>
+      			</li>
+				<li><a href="#">Nos Editions</a>
+        				<ul class="sousmenu">
+          				<li><a href="Notre Journal.html">Le Journal</a></li>
+						<li><a href="Notre Journal Télévisé.html">Le PabloNews JT</a></li>
+        				</ul>
+      			</li>
+				<li><a href="#">Nos divertissements</a>
+        				<ul class="sousmenu">
+          				<li><a href="Mots Croisés.html">Mots croisés</a></li>
+						<li><a href="Maths Croisés.html">Maths Croisés</a></li>
+        				</ul>
+      			</li>
+			</ul>
+		</td>
+		<tr>
+		<td bgcolor="white" height="300" valign="top">
+		
+		<div align="center">
+		<h1 id="title" style="font-size: 50px">ACTUALITE MDL</h1>
+		<br>
+		<div align="left">
+		&emsp;<img src="MDL.PNG" alt="CVL" width="100"/><h2>&ensp;ACTUALITE MDL</h2>
+		<p>&emsp;AUCUNE ACTUALITE CE MOIS-CI</p>
+		</ul>
+		</nav>
+	</body>
+</html>
+<div align="center">
+<img src="lycee-pablo-neruda-photo-le-dl-anne-elisabeth-bozon-verduraz-1631197211.jpg" alt="Lycée Pablo Néruda" width="1000"/>
