@@ -51,7 +51,9 @@
 		<td bgcolor="white" height="300" valign="top">
 		
 		<div align="center">
-		<h1 id="title" style="font-size: 50px">ACTUALITE MDL</h1>
+		<article class="forecast">
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>ACTUALITE MDL</h1></u>
+		</article>
 		<br>
 		<div align="left">
 		&emsp;<img src="MDL.PNG" alt="CVL" width="100"/><h2>&ensp;ACTUALITE MDL</h2>
