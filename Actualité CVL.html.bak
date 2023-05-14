@@ -56,8 +56,12 @@
 		</article>
 		<br>
 		<div align="left">
-		&emsp;<img src="CVL.PNG" alt="CVL" width="100"/><h2>&ensp;ACTUALITE CVL</h2>
-		<p>&emsp;AUCUNE ACTUALITE CE MOIS-CI</p>
+		<article class="forecast">
+    		<h1>&ensp;<u>DERNIERES INFORMATIONS</h1></u>
+    		<article class="day-forecast">
+        		<p>Aucune actualité ce mois-ci</p>
+    		</article>
+		</article>
 		</ul>
 		</nav>
 	</body>
