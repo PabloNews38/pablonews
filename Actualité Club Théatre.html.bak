@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/ico" href="favicon.ico"/>
 		<link rel="icon" type="image/ico" href="Logo_PabloNews-removebg-preview.png"/>
 	</head>
 	<body bgcolor="#77B5FE">
@@ -12,14 +13,9 @@
 		<table width="1200">
 		<td bgcolor="white" height="40" valign="top">
 		<br>
-		<article class="forecast">
-			<div align="center">
-			<a href="https://www.youtube.com/@pablonewslejournaldeslyceens"><img align="center" src="youtube.png" alt="Youtube" width="30"/></a>
-			<a href="https://www.instagram.com/pablonews_pabloneruda/"><img align="center" src="instagram.png" alt="Instagram" width="30"/></a>
-		</article>
 		<div align="left">
-		<img src="Logo_new.png" alt="Lycée" width="450"/>
-		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="200"/>
+		<img src="Logo_new.png" alt="Lycée" width="650"/>
+		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="350"/>
 		<br><br>
 			<div align="center">
 			<ul class="menu">
@@ -45,10 +41,10 @@
 						<li><a href="Notre Journal Télévisé.html">Le PabloNews JT</a></li>
         				</ul>
       			</li>
-				<li><a href="#">Réponses des jeux</a>
+				<li><a href="#">Nos divertissements</a>
         				<ul class="sousmenu">
           				<li><a href="Mots Croisés.html">Mots croisés</a></li>
-						<li><a href="Maths Croisés et Sudoku.html">Maths Croisés et Sudoku</a></li>
+						<li><a href="Maths Croisés.html">Maths Croisés</a></li>
         				</ul>
       			</li>
 			</ul>
@@ -58,7 +54,7 @@
 		
 		<div align="center">
 		<article class="forecast">
-    		<h1 id="title" style="font-size: 50px">&ensp;<u>ACTUALITE CVL</h1></u>
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>ACTUALITE CLUB THEATRE</h1></u>
 		</article>
 		<br>
 		<div align="left">

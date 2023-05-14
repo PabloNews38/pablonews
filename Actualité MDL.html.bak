@@ -12,9 +12,14 @@
 		<table width="1200">
 		<td bgcolor="white" height="40" valign="top">
 		<br>
+		<article class="forecast">
+			<div align="center">
+			<a href="https://www.youtube.com/@pablonewslejournaldeslyceens"><img align="center" src="youtube.png" alt="Youtube" width="30"/></a>
+			<a href="https://www.instagram.com/pablonews_pabloneruda/"><img align="center" src="instagram.png" alt="Instagram" width="30"/></a>
+		</article>
 		<div align="left">
-		<img src="Logo_new.png" alt="Lycée" width="650"/>
-		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="300"/> 
+		<img src="Logo_new.png" alt="Lycée" width="450"/>
+		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="200"/>
 		<br><br>
 			<div align="center">
 			<ul class="menu">
