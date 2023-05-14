@@ -14,7 +14,7 @@
 		<br>
 		<div align="left">
 		<img src="Logo_new.png" alt="Lycée" width="650"/>
-		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="350"/>
+		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="300"/>
 		<br><br>
 			<div align="center">
 			<ul class="menu">
@@ -43,7 +43,7 @@
 				<li><a href="#">Nos divertissements</a>
         				<ul class="sousmenu">
           				<li><a href="Mots Croisés.html">Mots croisés</a></li>
-						<li><a href="Maths Croisés.html">Maths Croisés</a></li>
+						<li><a href="Maths Croisés.html">Maths Croisés et Sudoku</a></li>
         				</ul>
       			</li>
 			</ul>
