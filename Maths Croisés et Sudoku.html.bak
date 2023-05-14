@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<link rel="icon" type="image/ico" href="Logo_PabloNews-removebg-preview.png"/>
+		<link rel="icon" type="image/ico" href="favicon.ico"/>
 	</head>
 	<body bgcolor="#77B5FE">
 		<nav>
@@ -18,12 +18,17 @@
 			<a href="https://www.instagram.com/pablonews_pabloneruda/"><img align="center" src="instagram.png" alt="Instagram" width="30"/></a>
 		</article>
 		<div align="left">
+<<<<<<< HEAD
 		<img src="Logo_new.png" alt="Lycée" width="450"/>
 		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="200"/>
+=======
+		<img src="Logo_new.png" alt="Lycée" width="650"/>
+		<img align="right" src="PabloNews logo officiel sans fond.png" alt="pablonews" width="350"/>
+>>>>>>> f2cd0041b500151d66c0040d252e7accf737c8ae
 		<br><br>
 			<div align="center">
 			<ul class="menu">
-      			<li><a href="index.html">Accueil</a></li>
+      			<li><a href="Accueil.html">Accueil</a></li>
       			<li><a href="#">Notre Equipe</a>
         				<ul class="sousmenu">
           				<li><a href="Notre Equipe.html">L'équipe de PabloNews</a></li>
@@ -36,7 +41,6 @@
           				<li><a href="information-actualité.html">Information - Actualités</a></li>
 						<li><a href="Actualité CVL.html">Actualité CVL</a></li>
 						<li><a href="Actualité MDL.html">Actualité MDL</a></li>
-						<li><a href="Actualité Club Théatre.html">Actualité Club Théâtre</a></li>
         				</ul>
       			</li>
 				<li><a href="#">Nos Editions</a>
@@ -45,10 +49,10 @@
 						<li><a href="Notre Journal Télévisé.html">Le PabloNews JT</a></li>
         				</ul>
       			</li>
-				<li><a href="#">Réponses des jeux</a>
+				<li><a href="#">Nos divertissements</a>
         				<ul class="sousmenu">
           				<li><a href="Mots Croisés.html">Mots croisés</a></li>
-						<li><a href="Maths Croisés et Sudoku.html">Maths Croisés et Sudoku</a></li>
+						<li><a href="Maths Croisés.html">Maths Croisés</a></li>
         				</ul>
       			</li>
 			</ul>
@@ -58,15 +62,13 @@
 		<td bgcolor="white" height="300" valign="top">
 		
 		<div align="center">
-		<article class="forecast">
-    		<h1 id="title" style="font-size: 50px">&ensp;<u>LES MATHS CROISES ET SUDOKU</h1></u>
-		</article>
+		<h1 id="title" style="font-size: 50px">LES MATHS CROISES</h1>
 		<br>
 		<div align="left">
-		<p style="font-size: 35px" id="numjournal">&emsp;Maths croisés et Sudoku | Mai 2023</p>
+		<p style="font-size: 35px" id="numjournal">&emsp;Maths croisés | Mai 2023</p>
 		<br>
 		&emsp;&emsp;<a class="container" id="journal1" href="#">
-		Voir les réponses des maths-croisés et du Sudoku de l'édition de Mai 2023
+		Voir les réponses des maths-croisés de l'édition de Mai 2023
 		<a/>
 		<br><br><br><br>
 		<br><br>
