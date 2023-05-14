@@ -59,23 +59,17 @@
 		
 		<div align="center">
 		<article class="forecast">
-    		<h1 id="title" style="font-size: 50px">&ensp;<u>INFORMATIONS - ACTUALITES</h1></u>
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>LES MATHS CROISES ET SUDOKU</h1></u>
 		</article>
 		<br>
 		<div align="left">
-		<article class="forecast">
-    		<h1>&ensp;<u>DERNIERES INFORMATIONS</h1></u>
-    		<article class="day-forecast">
-			<p class="flotte">
-				<img src="IMG_20230514_162332_863.jpg" alt="news" width="85"/>
-				</p>
-			<a href="https://www.instagram.com/p/CsOg4qJNGRJ/?utm_source=ig_web_copy_link&igshid=MTIyMzRjYmRlZg=="><strong>CHANGEMENT DE SITE INTERNET</strong></a>
-        		<p>Après un problème technique, l'équipe de PabloNews change de site internet !</p>
-				<br>
-    		</article>
-		</article>
-		</ul>
-		</nav>
+		<p style="font-size: 35px" id="numjournal">&emsp;Maths croisés et Sudoku | Mai 2023</p>
+		<br>
+		&emsp;&emsp;<a class="container" id="journal1" href="#">
+		Voir les réponses des maths-croisés et du Sudoku de l'édition de Mai 2023
+		<a/>
+		<br><br><br><br>
+		<br><br>
 	</body>
 </html>
 <div align="center">
