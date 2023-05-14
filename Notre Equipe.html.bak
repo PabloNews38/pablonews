@@ -51,7 +51,9 @@
 		<tr>
 		<td bgcolor="white" height="300" valign="top">
 		<div align="center">
-		<h1 id="title" style="font-size: 50px">L'EQUIPE DE PABLONEWS</h1>
+		<article class="forecast">
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>L'EQUIPE DE PABLONEWS</h1></u>
+		</article>
 		<br>
 		<div align="left">
 		<b><p id="poste">&emsp;Directeur de Publication</p></b>
