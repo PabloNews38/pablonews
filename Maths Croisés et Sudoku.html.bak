@@ -15,7 +15,7 @@
 		<article class="forecast">
 			<div align="center">
 			<a href="https://www.youtube.com/@pablonewslejournaldeslyceens"><img align="center" src="youtube.png" alt="Youtube" width="30"/></a>
-			<a href="https://www.instagram.com/pablonews_pabloneruda/"><img align="center" src="instagram.png" alt="Instagram" width="30"/></a>
+			<a href="https://www.instagram.com/pablonews_pabloneruda/"><img align="center" src="instagram.png" alt="Instagram" width="30"/></a>  
 		</article>
 		<div align="left">
 		<img src="Logo_new.png" alt="Lycée" width="450"/>
@@ -57,7 +57,9 @@
 		<td bgcolor="white" height="300" valign="top">
 		
 		<div align="center">
-		<h1 id="title" style="font-size: 50px">LES MATHS CROISES</h1>
+		<article class="forecast">
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>LES MATHS CROISES ET SUDOKU</h1></u>
+		</article>
 		<br>
 		<div align="left">
 		<p style="font-size: 35px" id="numjournal">&emsp;Maths croisés | Mai 2023</p>
