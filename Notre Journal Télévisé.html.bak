@@ -52,7 +52,9 @@
 		<td bgcolor="white" height="300" valign="top">
 		
 		<div align="center">
-		<h1 id="title" style="font-size: 50px">LE PABLONEWS JT</h1>
+		<article class="forecast">
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>LE PABLONEWS JT</h1></u>
+		</article>
 		<br>
 		<div align="left">
 		<p style="font-size: 35px" id="numjournal">&emsp;PABLONEWS #3 : EDITION SPECIALE</p>
