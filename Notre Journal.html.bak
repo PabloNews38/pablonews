@@ -52,7 +52,9 @@
 		<td bgcolor="white" height="300" valign="top">
 		
 		<div align="center">
-		<h1 id="title" style="font-size: 50px">LE JOURNAL</h1>
+		<article class="forecast">
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>LE JOURNAL</h1></u>
+		</article>
 		
 		<div align="left">
 		<p class="flotte">
