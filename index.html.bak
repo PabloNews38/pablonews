@@ -61,6 +61,14 @@
 		<div align="left">
 		<article class="forecast">
     		<h1>&ensp;<u>ACTUALITES</h1></u>
+			<article class="day-forecast">
+				<p class="flotte">
+				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
+				</p>
+        		<a href="information-actualité.html"><strong>La campagne de recrutement est officiellement lancé !</strong></a>
+        		<p>L'équipe de PabloNews est depuis ce lundi 15 mai, entrain d'afficher les affiches de recrutement dans tout le lycée. L'équipe de PabloNews espère qu'un maximum de lycéens soient intéressés</p>
+				<br>
+    		</article>
     		<article class="day-forecast">
 				<p class="flotte">
 				<img src="zyro-image (3).png" alt="news" width="85"/>
