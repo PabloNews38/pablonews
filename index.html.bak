@@ -63,6 +63,14 @@
     		<h1>&ensp;<u>ACTUALITES</h1></u>
 			<article class="day-forecast">
 				<p class="flotte">
+				<img src="zyro-image (3).png" alt="news" width="85"/>
+				</p>
+        		<a href="Actualité MDL.html"><strong>MDL : CARNAVAL</strong></a>
+        		<p>La MDL a publié les affiches du Carnaval</p>
+				<br>
+    		</article>
+			<article class="day-forecast">
+				<p class="flotte">
 				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
 				</p>
         		<a href="information-actualité.html"><strong>La campagne de recrutement est officiellement lancé !</strong></a>
