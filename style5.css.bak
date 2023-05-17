@@ -5,7 +5,7 @@ p
    padding:30px;
    background-color:white;
    width:95%;
-   height:2000px;
+   height:auto;
 }
 h2
 {
