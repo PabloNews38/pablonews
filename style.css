@@ -220,7 +220,7 @@ float:left;
     display: block;
 }
 
-.title {
+.title h1 {
 	--total: calc(var(--duration) + var(--delay));
 	position: relative;
 	display: block;
@@ -228,7 +228,7 @@ float:left;
 	overflow: hidden;
 	animation: reveal 1s var(--total) forwards;
 }
-.title::after {
+.title h1::after {
 	content: '';
 	position: absolute;
 	top: 0;
@@ -241,7 +241,7 @@ float:left;
 	animation: rollIn var(--duration) var(--delay) forwards,
 		rollOut var(--duration) var(--total) forwards;
 }
-.title:nth-child(2)::after {
+.title h1:nth-child(2)::after {
 	border-top: 3px solid #004ab8;
 }
 @keyframes reveal {
