@@ -21,23 +21,6 @@ body
 	font-family: Nexa Bold, Nexa Light, Cloud World, arial, BankGothic Lt BT, verdana;
 	color: #0B1616
 }
-#pages
-{
-	text-align: center;
-	text-decoration: none;
-	border: 5px solid #7fd3fa;
-	padding: 1rem 2rem;
-	border-radius: 8px;
-	transition: all 0.2s;
-	background-color: white;
-	color: black;
-	font-family: Cloud World, Nexa Light, BankGothic Lt BT, arial, verdana;
-}
-#pages:hover
-{
-	background-color: #7fd3fa;
-	color: white;
-}
 #title
 {
 	text-align: center;
@@ -47,12 +30,14 @@ body
 }
 #poste
 {
-	font-family: Cloud World, Anton, BankGothic Lt BT, arial;
+	font-family: arial;
 	color: red;
+	font-size: 30px;
 }
 #name
 {
-	font-family: Cloud World, Anton, BankGothic Lt BT, arial;
+	font-family: arial;
+	font-size: 30px;
 }
 #numjournal
 {
@@ -68,11 +53,16 @@ body
 	border-radius: 4px;
 	transition: all 0.2s;
 	width: 300px;
+	color: black;
+	
 }
 #journal1:hover
 {
 	background-color: #FF4754;
 	color: white;
+}
+.flotte {
+float:left;
 }
 .notify-preview
 {
@@ -81,7 +71,7 @@ body
 	right: 20px;
 	width: 480px;
 	background-color: #ecf0f1;
-	height: 130px;
+	height: 140px;
 	padding: 16px;
 }
 .notify-single
@@ -116,5 +106,116 @@ body
 }
 .notify-single .notify-single-icon.close
 {
-	color: #95a5a6
+	color: #95a5a6;
+}
+.actu {
+	margin: 0;
+    padding: 0.3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.actu > h1 {
+	margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.7rem;
+}
+.forecast {
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.forecast1 {
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #FFFFFF;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.forecast > h1,
+.day-forecast {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.7rem;
+}
+
+.day-forecast {
+    background: right/contain content-box border-box no-repeat url('/media/examples/rain.svg') white;
+}
+
+.day-forecast > a {
+	text-decoration: none;
+	color: blue;
+    margin: 0.2rem;
+    font-size: 1.5rem;
+}
+.day-forecast > p {
+	text-decoration: none;
+	color: black;
+    margin: 0.2rem;
+    font-size: 1.3rem;
+}
+
+.menu {
+    height: 60px;
+    list-style: none;
+    padding: 10px;
+    margin: 40px;
+    text-align: center;
+    align: center;
+
+}
+
+.menu li {
+    float: left;
+    width: 210px;
+}
+
+.menu li a:link, .menu li a:visited {
+    display: block;
+    color: #FFF;
+    background: #293245;
+    padding: 6px 10px;
+    border-right: 1px solid #FFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+.menu li a:hover {background-color: #199BD2;}
+.menu li a:active {background-color: #808080;}
+
+.menu .sousmenu {
+    list-style-type: none;
+    display: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+}
+
+.menu .sousmenu li {
+    float: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid transparent;
+    border-right: 1px solid transparent;
+}
+
+.menu .sousmenu li a:link, .menu li a:visited {
+    display: block;
+    color: #FFF;
+    text-decoration: none;
+    background-color: #808080;
+}
+
+.menu .sousmenu li a:hover {
+    background-color: #199BD2;
+}
+
+.menu li a:hover {
+    background-color: #199BD2;
+}
+
+
+.menu li:hover .sousmenu {
+    display: block;
 }
