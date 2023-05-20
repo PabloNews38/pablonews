@@ -1,12 +1,4 @@
 
-p
-{
-   margin:0px;
-   padding:30px;
-   background-color:white;
-   width:95%;
-   height:1800;
-}
 h2
 {
 	text-align: left;
