@@ -159,41 +159,30 @@ float:left;
 .menu {
     height: 60px;
     list-style: none;
-    padding: 0px;
-    margin: 20px;
+    padding: 10px;
+    margin: 40px;
+    text-align: center;
+    align: center;
+
 }
 
 .menu li {
     float: left;
-    width: 225px;
-}
-
-.menu li a{
-	text-decoration: none;
-	color: black;
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: 600;
-	letter-spacing: 0.3px;
-	position: relative;
-	transition: 0.5s;
+    width: 210px;
 }
 
 .menu li a:link, .menu li a:visited {
-	display: block;
-    color: black;
-	background: #80D4F9;
+    display: block;
+    color: #FFF;
+    background: #293245;
     padding: 6px 10px;
     border-right: 1px solid #FFF;
     text-align: center;
     text-decoration: none;
 }
 
-.menu li a:hover {background: linear-gradient(45deg,cyan,blue 80%);}
-.menu li a:active {background: linear-gradient(45deg,cyan,blue 80%);}
-
-.menu .sousmenu li a:hover {
-    background-color: #199BD2;
-}
+.menu li a:hover {background-color: #199BD2;}
+.menu li a:active {background-color: #808080;}
 
 .menu .sousmenu {
     list-style-type: none;
@@ -204,7 +193,7 @@ float:left;
 }
 
 .menu .sousmenu li {
-	float: none;
+    float: none;
     margin: 0;
     padding: 0;
     border-top: 1px solid transparent;
@@ -213,19 +202,19 @@ float:left;
 
 .menu .sousmenu li a:link, .menu li a:visited {
     display: block;
-    color: black;
-    text-decoration: none;	
+    color: #FFF;
+    text-decoration: none;
+    background-color: #808080;
+}
+
+.menu .sousmenu li a:hover {
+    background-color: #199BD2;
 }
 
 .menu li a:hover {
-    background-color: linear-gradient(45deg,cyan,blue);
-	color: white;
-
+    background-color: #199BD2;
 }
 
-.menu li a:hover::before {
-	width: 100%;
-}
 
 .menu li:hover .sousmenu {
     display: block;
