@@ -2,9 +2,9 @@
 p
 {
    margin:0px;
-   padding:40px;
+   padding:20px;
    background-color:white;
-   width:80%;
+   width:70%;
    height:1800;
 }
 h2
