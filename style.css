@@ -33,6 +33,16 @@ body
 	font-family: arial;
 	color: red;
 	font-size: 30px;
+	background: -webkit-linear-gradient(45deg,cyan,blue);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	content: '';
+	position: absolute;
+	height: 2.5px;
+	bottom: -5px;
+	width: 0;
+	border-radius: 50px;
+	background: linear-gradient(45deg,cyan,blue);
 }
 #name
 {
