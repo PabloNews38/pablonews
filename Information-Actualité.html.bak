@@ -65,6 +65,14 @@
 		<div align="left">
 		<article class="forecast">
     		<h1>&ensp;<u>DERNIERES INFORMATIONS</h1></u>
+			<article class="day-forecast">
+			<p class="flotte">
+				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
+				</p>
+			<a href="#"><strong>LA CAMPAGNE DE RECRUTEMENT EST LANCE !</strong></a>
+        		<p>L'équipe de PabloNews a lancé ce lundi 15 mai, sa campagne de recrutement pour l'année prochaine. Si vous souhaitez plus d'informations ou intégrer le journal, rendez-vous en salle 32 tous les lundis et vendredis à 13h</p>
+				<br>
+    		</article>
     		<article class="day-forecast">
 			<p class="flotte">
 				<img src="IMG_20230514_162332_863.jpg" alt="news" width="85"/>

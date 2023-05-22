@@ -3,13 +3,3 @@ $(document).ready(function(){
 		$(this).parent('.notify-single').remove();
 	});
 });
-
-let alertShow = false;
-
-setInterval(() => {
-	document.title = 
-	alertShow ? "PabloNews"
-			  : "Recrute !";
-			  
-	alertShow = !alertShow;
-}, 5000);

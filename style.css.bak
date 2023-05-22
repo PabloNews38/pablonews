@@ -42,7 +42,6 @@ body
 	bottom: -5px;
 	width: 0;
 	border-radius: 50px;
-	background: linear-gradient(45deg,cyan,blue);
 }
 #name
 {
