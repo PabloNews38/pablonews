@@ -62,12 +62,12 @@
 		<article class="forecast">
     		<h1 id="title" style="font-size: 50px">&ensp;<u>LE JOURNAL</h1></u>
 		</article>
-		<br><br>
+		
 		<div align="left">
 		<p class="flotte">
  		&emsp;<img src="PabloNews_logo_officiel-removebg-preview (1).png" alt="news" width="200"/>
 		</p>
-		<p style="font-size: 35px" id="numjournal">&ensp;MAI 2023 - N°9</p>
+		<br><p style="font-size: 35px" id="numjournal">&ensp;MAI 2023 - N°9</p>
 		<br>
 		&emsp;<a class="container" id="journal1" href="https://www.calameo.com/read/0071602438a365b6dc30b">
 		Lire l'édition de Mai 2023
