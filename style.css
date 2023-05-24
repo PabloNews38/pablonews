@@ -32,8 +32,9 @@ body
 {
 	font-family: arial;
 	font-size: 30px;
-	background-color: linear-gradient(45deg,cyan,blue);
-	color: white;
+	background: -webkit-linear-gradient(45deg,cyan,blue 80%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 #name
 {
@@ -123,7 +124,7 @@ float:left;
 .forecast {
     margin: 0;
     padding: 0.3rem;
-    background-color: linear-gradient(45deg,cyan,blue);
+    background-color: #eee;
     font: 1rem 'Fira Sans', sans-serif;
 }
 .forecast1 {

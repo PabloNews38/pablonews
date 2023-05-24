@@ -32,7 +32,7 @@ body
 {
 	font-family: arial;
 	font-size: 30px;
-	background: cyan;
+	background-color: linear-gradient(45deg,cyan,blue);
 	color: white;
 }
 #name
