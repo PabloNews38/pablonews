@@ -32,9 +32,14 @@ body
 {
 	font-family: arial;
 	font-size: 30px;
-	background: -webkit-linear-gradient(45deg,cyan,blue);
+	background-color: -webkit-linear-gradient(45deg,cyan,blue);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
+<<<<<<< HEAD
+	text-decoration: underline;
+=======
+ 	text-decoration: underline;
+>>>>>>> 909ea4608922249bfbb537c371cbb00116ffd173
 }
 #name
 {
