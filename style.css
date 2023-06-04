@@ -26,7 +26,12 @@ body
 	text-align: center;
 	background-color: white;
 	color: red;
-	font-family: Anton, Cloud World, Nexa Light, BankGothic Lt BT, arial, verdana
+	font-family: Anton, Cloud World, Nexa Light, BankGothic Lt BT, arial, verdana;
+}
+#poste::before
+{
+	content:">";
+	color: cyan;
 }
 #poste
 {
