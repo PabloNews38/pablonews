@@ -34,7 +34,7 @@
       			</li>
 				<li><a href="#">Le Journal des Lycéens</a>
         				<ul class="sousmenu">
-          				<li><a href="information-actualité.html">Information - Actualités</a></li>
+          				<li><a href="Actualité PabloNews.html">Actualité PabloNews</a></li>
 						<li><a href="Actualité CVL.html">Actualité CVL</a></li>
 						<li><a href="Actualité MDL.html">Actualité MDL</a></li>
 						<li><a href="Actualité Club Théatre.html">Actualité Club Théâtre</a></li>
@@ -66,7 +66,15 @@
 				<p class="flotte">
 				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
 				</p>
-        		<a href="information-actualité.html"><strong>NOUVELLE EDITION DU JOURNAL !</strong></a>
+        		<a href="Actualité PabloNews.html"><strong>PROCHAIN JT EN APPROCHE !</strong></a>
+        		<p>La dernière édition du JT est en cours du tournage avec un reportage exclusif du carnaval !</p>
+				<br>
+    		</article>
+			<article class="day-forecast">
+				<p class="flotte">
+				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
+				</p>
+        		<a href="Actualité PabloNews.html"><strong>NOUVELLE EDITION DU JOURNAL !</strong></a>
         		<p>Neuvième édition sortie !</p>
 				<br>
     		</article>
@@ -82,7 +90,7 @@
 				<p class="flotte">
 				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
 				</p>
-        		<a href="information-actualité.html"><strong>La campagne de recrutement est officiellement lancé !</strong></a>
+        		<a href="Actualité PabloNews.html"><strong>La campagne de recrutement est officiellement lancé !</strong></a>
         		<p>L'équipe de PabloNews est depuis ce lundi 15 mai, entrain d'afficher les affiches de recrutement dans tout le lycée. L'équipe de PabloNews espère qu'un maximum de lycéens soient intéressés</p>
 				<br>
     		</article>
@@ -98,7 +106,7 @@
 				<p class="flotte">
 				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
 				</p>
-        		<a href="information-actualité.html"><strong>Le journal du lycée recrute !</strong></a>
+        		<a href="Actualité PabloNews.html"><strong>Le journal du lycée recrute !</strong></a>
         		<p>Le journal de notre établissement recrute des lycéens et lycéennes motivés pour nous aider l'année prochaine</p>
 				<br>
     		</article>
