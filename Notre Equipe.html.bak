@@ -63,30 +63,30 @@
 		</article>
 		<br>
 		<div align="left">
-		<p id="poste">&emsp;<u>Directeur de Publication</u></p>
+		<p id="poste">&emsp;<u><strong>Directeur de Publication</strong></u></p>
 		<p id="name">&emsp;Xavier FINI</p>
 		<br><br>
 		<div align="left">
-		<p id="poste">&emsp;<u>Direction Générale</u></p>
+		<p id="poste">&emsp;<u><strong>Direction Générale</strong></u></p>
 		<p id="name">&emsp;Lamia GORGULU
 		<br>&emsp;Hugo COMBE-DARGENT
 		<br>&emsp;Gabriel HOLTZMANN</p>
 		<br><br>
 		<div align="left">
-		<p id="poste">&emsp;<u>Responsable Communication</u></p>
+		<p id="poste">&emsp;<u><strong>Responsable Communication</strong></u></p>
 		<p id="name">&emsp;Rémi MERCIER</p>
 		<br><br>
 		<div align="left">
-		<p id="poste">&emsp;<u>Mise en page</u></p>
+		<p id="poste">&emsp;<u><strong>Mise en page</strong></u></p>
 		<p id="name">&emsp;Florian SERT-VIDAL
 		<br>&emsp;Noé LUTOFF</p>
 		<br><br>
 		<div align="left">
-		<p id="poste">&emsp;<u>Rédactrice en Chef</u></p>
+		<p id="poste">&emsp;<u><strong>Rédactrice en Chef</strong></u></p>
 		<p id="name">&emsp;Tomoe VOGEL</p>
 		<br><br>
 		<div align="left">
-		<p id="poste">&emsp;<u>Rédacteurs</u></p>
+		<p id="poste">&emsp;<u><strong>Rédacteurs</strong></u></p>
 		<p id="name">&emsp;Johan HELIAS
 		<br>&emsp;Elisa DURAND
 		<br>&emsp;Maïwenn MONNET
@@ -103,22 +103,22 @@
 		</article>
 		<br>
 		<div align="left">
-		<p id="poste">&emsp;<u>Proviseur</u></p>
+		<p id="poste">&emsp;<u><strong>Proviseur</strong></u></p>
 		<p id="name">&emsp;M.MACHIRE</p>
 		<br>
-		<p id="poste">&emsp;<u>Proviseure Adjointe</u></p>
+		<p id="poste">&emsp;<u><strong>Proviseure Adjointe</strong></u></p>
 		<p id="name">&emsp;Mme BAUDERE</p>
 		<br>
-		<p id="poste">&emsp;<u>CPE / Référent Vie Lycéenne</u></p>
+		<p id="poste">&emsp;<u><strong>CPE / Référent Vie Lycéenne</strong></u></p>
 		<p id="name">&emsp;M.ROBERT</p>
 		<br>
-		<p id="poste">&emsp;<u>Professeure documentaliste</u></p>
+		<p id="poste">&emsp;<u><strong>Professeure documentaliste</strong></u></p>
 		<p id="name">&emsp;Mme GRANIER</p>
 		<br>
-		<p id="poste">&emsp;<u>Professeure de Français</u></p>
+		<p id="poste">&emsp;<u><strong>Professeure de Français</strong></u></p>
 		<p id="name">&emsp;Mme ERCOLE</p>
 		<br>
-		<p id="poste">&emsp;<u>Professeure de Sciences Economiques et Sociales</u></p>
+		<p id="poste">&emsp;<u><strong>Professeure de Sciences Economiques et Sociales</strong></u></p>
 		<p id="name">&emsp;Mme BOURCIER</p>
 	</body>
 </html>
