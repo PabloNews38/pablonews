@@ -273,7 +273,7 @@ header .box-title {
 }
 .box-title {
 	width: calc(100% - 40px);
-	align: left;
+	text-align: left;
 	height: 64px;
 	line-height: 64px;
 	padding: 0 20px;
@@ -283,7 +283,7 @@ header .box-title {
 }
 .box-content {
 	width: calc(100% - 40px);
-	align: left;
+	text-align: left;
 	padding: 30px 20px;
 	font-size: 11pt;
 	color: rgba(0,0,0,.54);
