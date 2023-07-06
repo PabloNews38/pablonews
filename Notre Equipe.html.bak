@@ -98,92 +98,31 @@
       		</header>
       		<input type="radio" name="accordion" id="cb4" />
       		<section class="box">
-        		<label class="box-title" for="cb4">La Commission Inscritpion et Ressources Humaines</label>
+        		<label class="box-title" for="cb4">La Commission Inscription et Ressources Humaines</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content">Aucun membre n'a été affecté a cette commission</div>
+        		<div class="box-content"><strong>Xavier FINI</strong><br>Directeur de Publication<br>Président de la Commission Inscription et Ressources Humaines<br><br><strong>Lamia GORGULU</strong><br>Directrice Générale<br><br><strong>Hugo COMBE-DARGENT</strong><br>Directeur Général Adjoint<br><br></div>
       		</section>
       		<input type="radio" name="accordion" id="cb5" />
       		<section class="box">
         		<label class="box-title" for="cb5">La Commission Communication et Evenementiel</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content">Aucun membre n'a été affecté a cette commission</div>
+        		<div class="box-content"><strong>Rémi MERCIER</strong><br>Directeur de la Communication<br>Président de la Commission Communication et Evenementiel<br><br><strong>Xavier FINI</strong><br>Responsable chargé des relations avec les instances et associations lycéennes<br><br></div>
       		</section>
       		<input type="radio" name="accordion" id="cb6" />
       		<section class="box">
         		<label class="box-title" for="cb6">La Commission Planning et Organisation</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content">Aucun membre n'a été affecté a cette commission</div>
+        		<div class="box-content"><strong>Xavier FINI</strong><br>Directeur de Publication<br>Président de la Commission Planning et Organisation<br><br><strong>Lisa GAILLARD</strong><br>Rédactrice en Chef<br><br><strong>Lamia GORGULU</strong><br>Directrice Générale<br><br></div>
       		</section>
 		<input type="radio" name="accordion" id="cb7" />
       		<section class="box">
         		<label class="box-title" for="cb7">La Commission Instances et Associations Lycéennes</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content">Aucun membre n'a été affecté a cette commission</div>
+        		<div class="box-content"><strong>Xavier FINI</strong><br>Responsable chargé des relations avec les instances et associations lycéennes<br>Président de la Commission Instances et Associations Lycéennes<br><br><strong>.</strong><br>Vice-Président(e) du CVL<br><br><strong>.</strong><br>Secrétaire de la MDL<br><br></div>
       		</section>
   
       		<input type="radio" name="accordion" id="acc-close" />
     		</nav>
-		
-			
-		<br>
-		<div align="left">
-		<p id="poste">&emsp;<u><strong>Directeur de Publication</strong></u></p>
-		<p id="name">&emsp;Xavier FINI</p>
-		<br><br>
-		<div align="left">
-		<p id="poste">&emsp;<u><strong>Direction Générale</strong></u></p>
-		<p id="name">&emsp;Lamia GORGULU
-		<br>&emsp;Hugo COMBE-DARGENT
-		<br>&emsp;Gabriel HOLTZMANN</p>
-		<br><br>
-		<div align="left">
-		<p id="poste">&emsp;<u><strong>Responsable Communication</strong></u></p>
-		<p id="name">&emsp;Rémi MERCIER</p>
-		<br><br>
-		<div align="left">
-		<p id="poste">&emsp;<u><strong>Mise en page</strong></u></p>
-		<p id="name">&emsp;Florian SERT-VIDAL
-		<br>&emsp;Noé LUTOFF</p>
-		<br><br>
-		<div align="left">
-		<p id="poste">&emsp;<u><strong>Rédactrice en Chef</strong></u></p>
-		<p id="name">&emsp;Tomoe VOGEL</p>
-		<br><br>
-		<div align="left">
-		<p id="poste">&emsp;<u><strong>Rédacteurs</strong></u></p>
-		<p id="name">&emsp;Johan HELIAS
-		<br>&emsp;Elisa DURAND
-		<br>&emsp;Maïwenn MONNET
-		<br>&emsp;Anna PALISSE
-		<br>&emsp;James DRAPIER
-		<br>&emsp;Stella GAUVILLE
-		<br>&emsp;Julie CLERE
-		<br>&emsp;Lisa GAILLARD
-		<br>&emsp;Manon JOUBIN
-		<br>&emsp;Johan GURUNG</p>
-		<div align="center">
-		<article class="forecast">
-    		<h1 id="title" style="font-size: 50px">&ensp;<u>SOUTIEN</h1></u>
-		</article>
-		<br>
-		<div align="left">
-		<p id="poste">&emsp;<u><strong>Proviseur</strong></u></p>
-		<p id="name">&emsp;M.MACHIRE</p>
-		<br>
-		<p id="poste">&emsp;<u><strong>Proviseure Adjointe</strong></u></p>
-		<p id="name">&emsp;Mme BAUDERE</p>
-		<br>
-		<p id="poste">&emsp;<u><strong>CPE / Référent Vie Lycéenne</strong></u></p>
-		<p id="name">&emsp;M.ROBERT</p>
-		<br>
-		<p id="poste">&emsp;<u><strong>Professeure documentaliste</strong></u></p>
-		<p id="name">&emsp;Mme GRANIER</p>
-		<br>
-		<p id="poste">&emsp;<u><strong>Professeure de Français</strong></u></p>
-		<p id="name">&emsp;Mme ERCOLE</p>
-		<br>
-		<p id="poste">&emsp;<u><strong>Professeure de Sciences Economiques et Sociales</strong></u></p>
-		<p id="name">&emsp;Mme BOURCIER</p>
 	</body>
 </html>
 <div align="center">
