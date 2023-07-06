@@ -145,13 +145,13 @@
       		<section class="box">
         		<label class="box-title" for="cb9">Conseil d'Administration du 11 mai 2023</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div align="center" class="box-content"><embed src="https://4a283e95-4319-4eee-9ae2-7592a4854f65.usrfiles.com/ugd/4a283e_890e5309f3f2470b8ae6459852a796e5.pdf" width="1050" height="4700" type="application/pdf"/></div>
+        		<div align="center" class="box-content"><embed src="https://4a283e95-4319-4eee-9ae2-7592a4854f65.usrfiles.com/ugd/4a283e_890e5309f3f2470b8ae6459852a796e5.pdf" width="1050" height="4600" type="application/pdf"/></div>
       		</section>
       		<input type="radio" name="accordion" id="cb10" />
       		<section class="box">
         		<label class="box-title" for="cb10">Conseil d'Administration du 03 juillet 2023</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div align="center" class="box-content"><embed src="https://4a283e95-4319-4eee-9ae2-7592a4854f65.usrfiles.com/ugd/4a283e_9d70483b843d42d4adc116649d10025d.pdf" width="1050" height="4700" type="application/pdf"/></div>
+        		<div align="center" class="box-content"><embed src="https://4a283e95-4319-4eee-9ae2-7592a4854f65.usrfiles.com/ugd/4a283e_9d70483b843d42d4adc116649d10025d.pdf" width="1050" height="4600" type="application/pdf"/></div>
       		</section>
   
       		<input type="radio" name="accordion" id="acc-close" />
