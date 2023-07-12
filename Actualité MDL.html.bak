@@ -34,7 +34,7 @@
       			</li>
 				<li><a href="#">Le Journal des Lycéens</a>
         				<ul class="sousmenu">
-          				<li><a href="information-actualité.html">Information - Actualités</a></li>
+          				<li><a href="Actualité PabloNews.html">Actualité PabloNews</a></li>
 						<li><a href="Actualité CVL.html">Actualité CVL</a></li>
 						<li><a href="Actualité MDL.html">Actualité MDL</a></li>
 						<li><a href="Actualité Club Théatre.html">Actualité Club Théâtre</a></li>
@@ -65,21 +65,8 @@
 		<div align="left">
 		<article class="forecast">
     		<h1>&ensp;<u>DERNIERES INFORMATIONS</h1></u>
-			<article class="day-forecast">
-				<p class="flotte">
-				<img src="zyro-image (3).png" alt="news" width="85"/>
-				</p>
-        		<a href="Actualité MDL.html"><strong>MDL : CARNAVAL</strong></a>
-        		<p>La MDL a, ce mercredi 17 avril, a placardé dans tout le lycée, les affiches officielles du Carnaval de cette année qui se déroulera le vendredi 9 juin, le dernier jour de cours.</p>
-				<br>
-    		</article>
-    		<article class="day-forecast">
-				<p class="flotte">
-				<img src="zyro-image (3).png" alt="news" width="85"/>
-				</p>
-        		<a href="Actualité MDL.html"><strong>Le carnaval en approche !</strong></a>
-        		<p>La MDL a confirmé la date du carnaval via son compte Instagram ! Celui-ci se déroulera le 9 juin !</p>
-				<br>
+		<article class="day-forecast">
+        		<p>Aucune actualité ce mois-ci</p>
     		</article>
 		</article>
 		</ul>
