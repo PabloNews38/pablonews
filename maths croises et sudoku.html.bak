@@ -16,7 +16,7 @@
 		<article class="forecast">
 			<div align="center">
 			<a href="https://www.youtube.com/@pablonewslejournaldeslyceens"><img align="center" src="youtube.png" alt="Youtube" width="30"/></a>
-			<a href="https://www.instagram.com/pablonews_pabloneruda/"><img align="center" src="instagram.png" alt="Instagram" width="30"/></a>
+			<a href="https://www.instagram.com/pablonews_pabloneruda/"><img align="center" src="instagram.png" alt="Instagram" width="30"/></a>  
 		</article>
 		<div align="left">
 		<img src="Logo_new.png" alt="Lycée" width="450"/>
@@ -24,7 +24,7 @@
 		<br><br>
 			<div align="center">
 			<ul class="menu">
-      			<li><a href="index.html">Accueil</a></li>
+      			<li><a href="index.html">Accueil</a></li> 
       			<li><a href="#">Notre Equipe</a>
         				<ul class="sousmenu">
           				<li><a href="Notre Equipe.html">L'équipe de PabloNews</a></li>
@@ -60,38 +60,17 @@
 		<td bgcolor="white" height="300" valign="top">
 		
 		<div align="center">
+		<article class="forecast">
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>LES MATHS CROISES ET SUDOKU</h1></u>
+		</article>
 		<br>
 		<div align="left">
-		<article class="forecast">
-			<h1 id="title" style="font-size: 50px">&ensp;<u>RECRUTEMENT</h1></u>
-		</article>
+		<p style="font-size: 35px" id="numjournal">&emsp;Maths croisés et Sudoku | Mai 2023</p>
 		<br>
-		<article class="forecast">
-			<article class="day-forecast">
-				<p><strong><u>POSTES DISPONIBLES :</strong></u></p>
-			</article>
-			<article class="day-forecast">
-        		<p><strong>Présentateur(trice) du JT</strong>&emsp;Postes disponibles : 1 à 3</p>
-        		<p>Le présentateur(trice) du journal télévisé est chargé de présenter le jt aux lycéens. C'est lui qui gère les actualités a présenter dans le journal télévisé avec le rédacteur(trice) en chef.</p>
-    		</article>
-			<article class="day-forecast">
-        		<p><strong>Rédacteur(tice)</strong>&emsp;Postes disponibles : ∞</p>
-        		<p>Le rédacteur(trice) s'occupe de rédiger les articles, interviews et plus du journal. Il peut également être nommé Chef de Rubrique par le Bureau de PabloNews</p>
-    		</article>
-			<article class="day-forecast">
-        		<p><strong>Rédacteur(trice) en Chef</strong>&emsp;Postes disponibles : 1 ou 2</p>
-        		<p>Le Rédacteur(trice) en Chef est chargé de corriger les articles et de superviser l'avancé des articles des rédacteurs. Il est également chargé de vérifier les articles sur l'article 1 du règlement général de pablonews sur la "charte des journalistes jeunes" avant sa publication.</p>
-    		</article>
-			<article class="day-forecast">
-        		<p><strong>Chef(fe) d'Edition</strong>&emsp;Postes disponibles : 1 ou 2</p>
-        		<p>Le Chef(Fe) d'Edition est chargé de la mise en page des articles du journal. C'est lui qui décide dans quelle édition vont les articles. il se coordonne avec son adjoint(e) s'il y en a un.</p>
-    		</article>
-			<article class="day-forecast">
-        		<p><strong>Chef(fe) d'Edition Adjoint(e)</strong>&emsp;Postes disponibles : 1 à 3</p>
-        		<p>Le Chef(fe) d'Edition Adjoint(e) à la même charge que le Chef(fe) d'Edition, il est chargé de la mise en page des articles du journal et il est également chargé de choisir dans quelle édition vont les articles. </p>
-    		</article>
-		</article>
-		<p><u>SI VOUS SOUHAITEZ REJOINDRE NOTRE EQUIPE OU AVOIR PLUS D'INFORMATIONS, RENDEZ-VOUS EN SALLE 32 TOUS LES VENDREDIS !</u></p>
+		&emsp;&emsp;<a class="container" id="journal1" href="https://4a283e95-4319-4eee-9ae2-7592a4854f65.usrfiles.com/ugd/4a283e_b9eb506dc4844051b2d0a9b86e23f10c.pdf">
+		Voir les réponses des maths-croisés et sudoku de l'édition de Mai 2023
+		<a/>
+		<br><br><br><br>
 		<br><br>
 	</body>
 </html>

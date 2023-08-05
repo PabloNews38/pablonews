@@ -28,7 +28,6 @@
       			<li><a href="#">Notre Equipe</a>
         				<ul class="sousmenu">
           				<li><a href="Notre Equipe.html">L'équipe de PabloNews</a></li>
-						<li><a href="https://pablonews-pabloneruda.github.io/conseiladministration">Conseil d'Administration</a></li>
          					<li><a href="Notre Reglement.html">Règlement Général</a></li>
           				<li><a href="Recrutement.html">Recrutement</a></li>
         				</ul>
@@ -60,39 +59,19 @@
 		<td bgcolor="white" height="300" valign="top">
 		
 		<div align="center">
+		<article class="forecast">
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>ACTUALITE PABLONEWS</h1></u>
+		</article>
 		<br>
 		<div align="left">
 		<article class="forecast">
-			<h1 id="title" style="font-size: 50px">&ensp;<u>RECRUTEMENT</h1></u>
-		</article>
-		<br>
-		<article class="forecast">
-			<article class="day-forecast">
-				<p><strong><u>POSTES DISPONIBLES :</strong></u></p>
-			</article>
-			<article class="day-forecast">
-        		<p><strong>Présentateur(trice) du JT</strong>&emsp;Postes disponibles : 1 à 3</p>
-        		<p>Le présentateur(trice) du journal télévisé est chargé de présenter le jt aux lycéens. C'est lui qui gère les actualités a présenter dans le journal télévisé avec le rédacteur(trice) en chef.</p>
-    		</article>
-			<article class="day-forecast">
-        		<p><strong>Rédacteur(tice)</strong>&emsp;Postes disponibles : ∞</p>
-        		<p>Le rédacteur(trice) s'occupe de rédiger les articles, interviews et plus du journal. Il peut également être nommé Chef de Rubrique par le Bureau de PabloNews</p>
-    		</article>
-			<article class="day-forecast">
-        		<p><strong>Rédacteur(trice) en Chef</strong>&emsp;Postes disponibles : 1 ou 2</p>
-        		<p>Le Rédacteur(trice) en Chef est chargé de corriger les articles et de superviser l'avancé des articles des rédacteurs. Il est également chargé de vérifier les articles sur l'article 1 du règlement général de pablonews sur la "charte des journalistes jeunes" avant sa publication.</p>
-    		</article>
-			<article class="day-forecast">
-        		<p><strong>Chef(fe) d'Edition</strong>&emsp;Postes disponibles : 1 ou 2</p>
-        		<p>Le Chef(Fe) d'Edition est chargé de la mise en page des articles du journal. C'est lui qui décide dans quelle édition vont les articles. il se coordonne avec son adjoint(e) s'il y en a un.</p>
-    		</article>
-			<article class="day-forecast">
-        		<p><strong>Chef(fe) d'Edition Adjoint(e)</strong>&emsp;Postes disponibles : 1 à 3</p>
-        		<p>Le Chef(fe) d'Edition Adjoint(e) à la même charge que le Chef(fe) d'Edition, il est chargé de la mise en page des articles du journal et il est également chargé de choisir dans quelle édition vont les articles. </p>
+    		<h1>&ensp;<u>DERNIERES INFORMATIONS</h1></u>
+		<article class="day-forecast">
+        		<p>Aucune actualité ce mois-ci</p>
     		</article>
 		</article>
-		<p><u>SI VOUS SOUHAITEZ REJOINDRE NOTRE EQUIPE OU AVOIR PLUS D'INFORMATIONS, RENDEZ-VOUS EN SALLE 32 TOUS LES VENDREDIS !</u></p>
-		<br><br>
+		</ul>
+		</nav>
 	</body>
 </html>
 <div align="center">
