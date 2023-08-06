@@ -27,30 +27,30 @@
       			<li><a href="index.html">Accueil</a></li>
       			<li><a href="#">Notre Equipe</a>
         				<ul class="sousmenu">
-          				<li><a href="notre equipe.html">L'équipe de PabloNews</a></li>
+          				<li><a href="notre-equipe.html">L'équipe de PabloNews</a></li>
 						<li><a href="https://pablonews-pabloneruda.github.io/conseiladministration">Conseil d'Administration</a></li>
-         				<li><a href="notre reglement.html">Règlement Général</a></li>
+         				<li><a href="notre-reglement.html">Règlement Général</a></li>
           				<li><a href="recrutement.html">Recrutement</a></li>
         				</ul>
       			</li>
 				<li><a href="#">Le Journal des Lycéens</a>
         				<ul class="sousmenu">
-          				<li><a href="actualite pablonews.html">Actualité PabloNews</a></li>
-						<li><a href="actualite CVL.html">Actualité CVL</a></li>
-						<li><a href="actualite MDL.html">Actualité MDL</a></li>
-						<li><a href="actualite club theatre.html">Actualité Club Théâtre</a></li>
+          				<li><a href="actualite-pablonews.html">Actualité PabloNews</a></li>
+						<li><a href="actualite-CVL.html">Actualité CVL</a></li>
+						<li><a href="actualite-MDL.html">Actualité MDL</a></li>
+						<li><a href="actualite-club-theatre.html">Actualité Club Théâtre</a></li>
         				</ul>
       			</li>
 				<li><a href="#">Nos Editions</a>
         				<ul class="sousmenu">
-          				<li><a href="notre journal.html">Le Journal</a></li>
-						<li><a href="notre journal televise.html">Le PabloNews JT</a></li>
+          				<li><a href="notre-journal.html">Le Journal</a></li>
+						<li><a href="notre-journal-televise.html">Le PabloNews JT</a></li>
         				</ul>
       			</li>
 				<li><a href="#">Réponses des jeux</a>
         				<ul class="sousmenu">
-          				<li><a href="mots croises.html">Mots croisés</a></li>
-						<li><a href="maths croises et sudoku.html">Maths Croisés et Sudoku</a></li>
+          				<li><a href="mots-croises.html">Mots croisés</a></li>
+						<li><a href="maths-croises-et-sudoku.html">Maths Croisés et Sudoku</a></li>
         				</ul>
       			</li>
 			</ul>
