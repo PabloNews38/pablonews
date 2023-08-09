@@ -63,9 +63,9 @@
 		<article class="forecast">
 			<article class="day-forecast">
 			<marquee>
-				<div style="margin-right: 20px; float: left;">
-					<a href="#"><span>Recrutement : L'équipe de PabloNews recherche des lycéens motivés pour intégrer l'équipe</span></a>
-					<a href="#"><span>Nouveau règlement général adopté par le Conseil d'Administration</span></a>
+				<div style="z-index:100;position:absolute;left:0;right:0;text-shadow:0 0 3px #000,0 0 20px #000;bottom:0;display:flex;top:0;align-items:center;justify-content:center;background: linear-gradient(45deg, #0500FF, #06C5FB); color: white; margin-right: 20px; float: left;">
+					<a href="#"><span>Recrutement : L'équipe de PabloNews recherche des lycéens motivés pour intégrer l'équipe		</span></a>
+					<a href="#"><span>Nouveau règlement général adopté par le Conseil d'Administration		</span></a>
 				</div>
 			</marquee>
 			</article>
