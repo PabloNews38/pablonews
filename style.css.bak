@@ -209,7 +209,7 @@ float:left;
 	float: none;
     margin: 0;
     padding: 0;
-    border-top: 0px solid transparent;
+    border-top: 0px solid transparent; 
     border-right: 1px solid transparent;
 }
 
