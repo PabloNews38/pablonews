@@ -340,5 +340,5 @@ input:checked + section.box .box-title:before {
 	height: 60px;
     list-style: none;
     padding: 0px;
-    margin: 20px;
+    
 }
