@@ -337,8 +337,5 @@ input:checked + section.box .box-title:before {
 
 #acturapidefond
 {
-	height: 60px;
-    list-style: none;
-    padding: 0px;
-    
+	width: 225px;   
 }
