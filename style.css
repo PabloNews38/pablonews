@@ -334,8 +334,3 @@ input:checked + section.box .box-title:before {
 	color: white;
 	text-transform: uppercase;
 }
-
-#acturapidefond
-{
-	width: 1225px;   
-}
