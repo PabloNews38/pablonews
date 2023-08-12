@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/ico" href="favicon.ico"/>
 		<link rel="icon" type="image/ico" href="Logo_PabloNews-removebg-preview.png"/>
 		<title> PabloNews</title>
 	</head>
@@ -60,13 +61,13 @@
 		
 		<div align="center">
 		<article class="forecast">
-    		<h1 id="title" style="font-size: 50px">&ensp;<u>ACTUALITE MDL</h1></u>
+    		<h1 id="title" style="font-size: 50px">&ensp;<u>ACTUALITE CLUB THEATRE</h1></u>
 		</article>
 		<br>
 		<div align="left">
 		<article class="forecast">
     		<h1>&ensp;<u>DERNIERES INFORMATIONS</h1></u>
-		<article class="day-forecast">
+    		<article class="day-forecast">
         		<p>Aucune actualité ce mois-ci</p>
     		</article>
 		</article>
