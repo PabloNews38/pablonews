@@ -7,7 +7,7 @@
 		<title> PabloNews</title>
 	</head>
 	<body style="background: linear-gradient(45deg, #0500FF, #06C5FB)">
-		<table width="0">
+		<table width="1200">
 		<td bgcolor="white" height="0" valign="top">
 		<br>
 		<article class="forecast">
