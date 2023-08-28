@@ -6,7 +6,7 @@
 		<link rel="icon" type="image/ico" href="Logo_PabloNews-removebg-preview.png"/>
 		<title> PabloNews</title>
 	</head>
-	<body style="background: linear-gradient(45deg, #0500FF, #06C5FB)">
+	<body style="white">
 		<td bgcolor="white" height="0" valign="top">
 		<br>
 		<article class="forecast">
@@ -72,16 +72,8 @@
 				<p class="flotte">
 				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
 				</p>
-        		<a href="Actualité PabloNews.html"><strong>PERMANENCE DE RECRUTEMENT</strong></a>
+        		<a href="actualite-pablonews.html"><strong>PERMANENCE DE RECRUTEMENT</strong></a>
         		<p>Des permanences de recrutement seront tenues tout le mois de Septembre. Rendez-vous dans la page Actualité PabloNews pour découvrir des dates et lieux des permanences</p>
-				<br>
-    		</article>
-			<article class="day-forecast">
-				<p class="flotte">
-				<img src="google-algorithm-update-removebg-preview.png" alt="news" width="85"/>
-				</p>
-        		<a href="Actualité PabloNews.html"><strong>Mise à jour du site internet</strong></a>
-        		<p>Une mise à jour générale du site internet va être faite pendant les vacances d'été.</p>
 				<br>
     		</article>
 		</article>
