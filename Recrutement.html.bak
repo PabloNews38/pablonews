@@ -60,6 +60,13 @@
     		<h1 id="title" style="font-size: 50px">&ensp;<u>RECRUTEMENT</h1></u>
 		</article>
 		<br>
+		<article class="day-forecast">
+        		<p>Vous êtes intéressé(e) par un des postes énoncés ci-dessous ? Alors télécharge la fiche d'inscription, en cliquant sur le bouton ci-dessous, complète la fiche et remet la au responsable qui tient la permanence au CVL ! Ce responsable vous expliquera tout le fonctionnement !</p>
+				<a class="container" id="journal1" href="#">
+				Indisponible pour le moment
+				<a/>
+    		</article>
+		<br>
 		<img src="6.png"/>
 		<img src="7.png"/>
 		<img src="8.png"/>
