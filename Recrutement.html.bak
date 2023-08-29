@@ -61,11 +61,12 @@
 		</article>
 		<br>
 			<article class="forecast">
-        		<p>Vous êtes intéressé(e) par un des postes énoncés ci-dessous ? Alors télécharge la fiche d'inscription, en cliquant sur le bouton ci-dessous, complète la fiche et remet la au responsable qui tient la permanence au CVL ! Ce responsable vous expliquera tout le fonctionnement !</p>
+        		<h1>Vous êtes intéressé(e) par un des postes énoncés ci-dessous ? Alors télécharge la fiche d'inscription, en cliquant sur le bouton ci-dessous, complète la fiche et remet la au responsable qui tient la permanence au CVL ! Ce responsable vous expliquera tout le fonctionnement !</h1>
 				<br>
 				<a class="container" id="journal1" href="#">
 				Indisponible pour le moment
 				<a/>
+				<br>
     		</article>
 		<br><br><br>
 		<img src="6.png"/>
