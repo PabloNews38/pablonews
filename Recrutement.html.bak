@@ -58,20 +58,20 @@
 			<article class="forecast">
         		<h1>Vous êtes intéressé(e) par un des postes énoncés ci-dessous ? Alors télécharge la fiche d'inscription, en cliquant sur le bouton ci-dessous, complète la fiche et remet la au responsable qui tient la permanence au CVL ! Ce responsable vous expliquera tout le fonctionnement !</h1>
 				<br>
-				<a class="container" id="journal1" href="#">
-				Indisponible pour le moment
+				<a class="container" id="journal1" href="Dossier inscription 2324.pdf">
+				Télécharger
 				<a/>
 				<br><br><br>
     		</article>
 		<br><br><br>
-		<img src="6.png"/>
-		<img src="7.png"/>
-		<img src="8.png"/>
-		<img src="9.png"/>
-		<img src="10.png"/>
-		<img src="11.png"/>
-		<img src="12.png"/>
-		<img src="13.png"/>
+		<img src="6.png" width="550px"/>
+		<img src="7.png" width="550px"/>
+		<img src="8.png" width="550px"/>
+		<img src="9.png" width="550px"/>
+		<img src="10.png" width="550px"/>
+		<img src="11.png" width="550px"/>
+		<img src="12.png" width="550px"/>
+		<img src="13.png" width="550px"/>
 		<br><br>
 		
 	</body>

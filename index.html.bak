@@ -20,8 +20,8 @@
 		<br>
 		<marquee id="acturapidefond" style="background: linear-gradient(45deg, #0500FF, #06C5FB)">
 				<div style="color: white; padding: 0.5em; float: left;">
-					<a href="#" id="acturapide"><span>Des permanences seront tenues par les responsables du journal durant tout le mois de Septembre&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
-    					<a href="#" id="acturapide"><span>L’équipe de PabloNews vous souhaite une bonne rentrée et la bienvenue aux nouveaux élèves&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+					<a href="#" id="acturapide"><span>L’équipe de PabloNews vous souhaite une bonne rentrée et la bienvenue aux nouveaux élèves&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+					<a href="#" id="acturapide"><span>Du 5 au 14 septembre, les permanences de recrutement se déroulerons devant la salle du CVL&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
 					<a href="#" id="acturapide"><span>Nouveau règlement général adopté par le Conseil d'Administration&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
 				</div>
 			</marquee>
@@ -51,12 +51,7 @@
 						<li><a href="notre-journal-televise.html" id="texte">Le PabloNews JT</a></li>
         				</ul>
       			</li>
-				<li><a href="#" id="texte">Réponses des jeux</a>
-        				<ul class="sousmenu">
-          				<li><a href="mots-croises.html" id="texte">Mots croisés</a></li>
-						<li><a href="maths-croises-et-sudoku.html" id="texte">Maths Croisés et Sudoku</a></li>
-        				</ul>
-      			</li>
+				<li><a href="reponses-des-jeux.html" id="texte">Réponses des jeux</a></li>
 			</ul>
 		</td>
 		<div align="left">
