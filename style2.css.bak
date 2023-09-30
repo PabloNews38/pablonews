@@ -167,7 +167,7 @@ float:left;
 
 .menu li {
     float: left;
-    width: 100px;
+    width: 150px;
 }
 
 .menu li a{
