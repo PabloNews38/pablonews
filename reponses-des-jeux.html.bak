@@ -18,6 +18,11 @@
 		<img src="Logo_new.png" alt="Lycée" width="450"/>
 		<img align="right" src="PabloNews_logo_officiel-removebg-preview (1).png" alt="pablonews" width="200"/>
 		<br>
+		<marquee id="acturapidefond" style="background: linear-gradient(45deg, #0500FF, #06C5FB)">
+				<div style="color: white; padding: 0.5em; float: left;">
+					<a href="#" id="acturapide"><span>La première réunion officielle du journal se déroulera en salle 148 (Salle informatique à côté du CDI) à 13h, le lundi 25 septembre&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+					<a href="#" id="acturapide"><span>La prochaine séance du Conseil d'Administration se déroulera en mi-octobre&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a></div>
+			</marquee>
 		
 			<div align="center">
 			<ul class="menu">
@@ -56,7 +61,12 @@
 		</article>
 		<br>
 		<div align="left">
-  <p style="font-size: 35px" id="numjournal">&emsp;Maths croisés et Sudoku | Mai 2023</p>
+		<p style="font-size: 35px" id="numjournal">&emsp;Mots croisés, Maths croisés et Sudoku | Edition Spéciale Rentrée Scolaire 2023 / Septembre 2023</p>
+		<br>
+		&emsp;&emsp;<a class="container" id="journal1" href="Réponses Jeux Septembre 2023.pdf">
+		Voir les réponses
+		<a/>
+		<p style="font-size: 35px" id="numjournal">&emsp;Maths croisés et Sudoku | Mai 2023</p>
 		<br>
 		&emsp;&emsp;<a class="container" id="journal1" href="https://4a283e95-4319-4eee-9ae2-7592a4854f65.usrfiles.com/ugd/4a283e_b9eb506dc4844051b2d0a9b86e23f10c.pdf">
 		Voir les réponses des maths-croisés et sudoku de l'édition de Mai 2023
