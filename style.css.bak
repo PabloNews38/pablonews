@@ -236,7 +236,7 @@ float:left;
 
 .accordion {
 	margin: auto;
-	width: 2100px;
+	width: 1190px;
 }
 .accordion input {
 	display: none;
