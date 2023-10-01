@@ -18,6 +18,12 @@
 		<img src="Logo_new.png" alt="Lycée" width="450"/>
 		<img align="right" src="PabloNews_logo_officiel-removebg-preview (1).png" alt="pablonews" width="200"/>
 		<br>
+		<marquee id="acturapidefond" style="background: linear-gradient(45deg, #0500FF, #06C5FB)">
+				<div style="color: white; padding: 0.5em; float: left;">
+					<a href="#" id="acturapide"><span>La première réunion officielle du journal se déroulera en salle 148 (Salle informatique à côté du CDI) à 13h, le lundi 25 septembre&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+					<a href="#" id="acturapide"><span>La prochaine séance du Conseil d'Administration se déroulera en mi-octobre&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+				</div>
+			</marquee>
 		
 			<div align="center">
 			<ul class="menu">
@@ -44,12 +50,7 @@
 						<li><a href="notre-journal-televise.html" id="texte">Le PabloNews JT</a></li>
         				</ul>
       			</li>
-				<li><a href="#" id="texte">Réponses des jeux</a>
-        				<ul class="sousmenu">
-          				<li><a href="mots-croises.html" id="texte">Mots croisés</a></li>
-						<li><a href="maths-croises-et-sudoku.html" id="texte">Maths Croisés et Sudoku</a></li>
-        				</ul>
-      			</li>
+				<li><a href="reponses-des-jeux.html" id="texte">Réponses des jeux</a></li>
 			</ul>
 		</td>
 		<tr>
@@ -70,19 +71,78 @@
       		<section class="box">
         		<label class="box-title" for="cb1">Direction Générale</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content"><strong>Xavier FINI</strong><br>Directeur de Publication<br><br><strong>Lamia GORGULU</strong><br>Directrice Générale<br><br><strong>Hugo COMBE-DARGENT</strong><br>Directeur Général Adjoint<br><br><strong>Gabriel HOLTZMANN</strong><br>Directeur de la Rédaction<br><br><strong>Rémi MERCIER</strong><br>Directeur de la Communication</div>
+        		<div class="box-content">
+					<strong>Xavier FINI</strong>
+					<br>Directeur de Publication
+					<br>Responsable chargé des relations avec les instances et associations lycéennes
+					<br><br>
+					<strong>Lamia GORGULU</strong>
+					<br>Directrice Générale
+					<br>Responsable chargée du recrutement et de la gestion des ressources humaines
+					<br><br>
+					<strong>Hugo COMBE-DARGENT</strong>
+					<br>Directeur Général Adjoint
+					<br><br>
+					<strong>Gabriel HOLTZMANN</strong>
+					<br>Directeur de la Rédaction
+					<br><br>
+					<strong>Rémi MERCIER</strong>
+					<br>Directeur de la Communication
+					<br><br>
+					</div>
       		</section>
       		<input type="radio" name="accordion" id="cb2" />
       		<section class="box">
         		<label class="box-title" for="cb2">Rédaction</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content"><strong>Lisa GAILLARD</strong><br>Rédactrice en Chef<br><br><strong>Julie CLERE</strong><br>Rédactrice<br><br><strong>Johan GURUNG</strong><br>Rédacteur<br><br><strong>Rémi MERCIER</strong><br>Rédacteur</div>
+        		<div class="box-content">
+					<strong>Lisa GAILLARD</strong>
+					<br>Rédactrice en Chef
+					<br><br>
+					<strong>James DRAPIER</strong>
+					<br>Chef d'Edition
+					<br><br>
+					<strong>Julie CLERE</strong>
+					<br>Rédactrice
+					<br><br>
+					<strong>Johan GURUNG</strong>
+					<br>Rédacteur
+					<br><br>
+					<strong>Rémi MERCIER</strong>
+					<br>Rédacteur
+					<br><br>
+					<strong>Alexi DAVID</strong>
+					<br>Rédacteur
+					<br><br>
+					<strong>Khadim THIOUNE</strong>
+					<br>Rédacteur
+					<br><br>
+					</div>
       		</section>
       		<input type="radio" name="accordion" id="cb3" />
       		<section class="box">
         		<label class="box-title" for="cb3">Soutien</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content"><strong>M.MACHIRE</strong><br>Proviseur<br><br><strong>Mme BAUDERE</strong><br>Proviseure Adjointe<br><br><strong>M.ROBERT</strong><br>CPE/Référent Vie Lycéenne<br><br><strong>Mme GRANIER</strong><br>Professeur documentaliste<br><br><strong>Mme ERCOLE</strong><br>Professeur de Français<br><br><strong>Mme BOURCIER</strong><br>Professeur de Sciences Economiques et Sociales</div>
+        		<div class="box-content">
+					<strong>M.MACHIRE</strong>
+					<br>Proviseur
+					<br><br>
+					<strong>Mme BAUDERE</strong>
+					<br>Proviseure Adjointe
+					<br><br>
+					<strong>M.ROBERT</strong>
+					<br>CPE/Référent Vie Lycéenne
+					<br><br>
+					<strong>Mme GRANIER</strong>
+					<br>Professeur documentaliste
+					<br><br>
+					<strong>Mme ERCOLE</strong>
+					<br>Professeur de Français
+					<br><br>
+					<strong>Mme BOURCIER</strong>
+					<br>Professeur de Sciences Economiques et Sociales
+					<br><br>
+					</div>
       		</section>
   
       		<input type="radio" name="accordion" id="acc-close" />
@@ -98,25 +158,66 @@
       		<section class="box">
         		<label class="box-title" for="cb4">La Commission Inscription et Ressources Humaines</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content"><strong>Xavier FINI</strong><br>Directeur de Publication<br>Président de la Commission Inscription et Ressources Humaines<br><br><strong>Lamia GORGULU</strong><br>Directrice Générale<br><br><strong>Hugo COMBE-DARGENT</strong><br>Directeur Général Adjoint<br><br></div>
+        		<div class="box-content">
+					<strong>Lamia GORGULU</strong>
+					<br>Directtrice Générale
+					<br>Présidente de la Commission Inscription et Ressources Humaines
+					<br><br>
+					<strong>Xavier FINI</strong>
+					<br>Directeur de Publication
+					<br><br>
+					<strong>Hugo COMBE-DARGENT</strong>
+					<br>Directeur Général Adjoint
+					<br><br>
+					</div>
       		</section>
       		<input type="radio" name="accordion" id="cb5" />
       		<section class="box">
         		<label class="box-title" for="cb5">La Commission Communication et Evenementiel</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content"><strong>Rémi MERCIER</strong><br>Directeur de la Communication<br>Président de la Commission Communication et Evenementiel<br><br><strong>Xavier FINI</strong><br>Responsable chargé des relations avec les instances et associations lycéennes<br><br></div>
+        		<div class="box-content">
+					<strong>Rémi MERCIER</strong>
+					<br>Directeur de la Communication
+					<br>Président de la Commission Communication et Evenementiel
+					<br><br>
+					<strong>Xavier FINI</strong>
+					<br>Directeur de Publication
+					<br><br>
+					</div>
       		</section>
       		<input type="radio" name="accordion" id="cb6" />
       		<section class="box">
         		<label class="box-title" for="cb6">La Commission Planning et Organisation</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content"><strong>Xavier FINI</strong><br>Directeur de Publication<br>Président de la Commission Planning et Organisation<br><br><strong>Lisa GAILLARD</strong><br>Rédactrice en Chef<br><br><strong>Lamia GORGULU</strong><br>Directrice Générale<br><br></div>
+        		<div class="box-content">
+					<strong>Lisa GAILLARD</strong>
+					<br>Rédactrice en chef
+					<br>Présidente de la Commission Planning et Organisation
+					<br><br>
+					<strong>Xavier FINI</strong>
+					<br>Directeur de Publication
+					<br><br>
+					<strong>Lamia GORGULU</strong>
+					<br>Directrice Générale
+					<br><br>
+					</div>
       		</section>
 		<input type="radio" name="accordion" id="cb7" />
       		<section class="box">
         		<label class="box-title" for="cb7">La Commission Instances et Associations Lycéennes</label>
         		<label class="box-close" for="acc-close"></label>
-        		<div class="box-content"><strong>Xavier FINI</strong><br>Responsable chargé des relations avec les instances et associations lycéennes<br>Président de la Commission Instances et Associations Lycéennes<br><br><strong>.</strong><br>Vice-Président(e) du CVL<br><br><strong>.</strong><br>Secrétaire de la MDL<br><br></div>
+        		<div class="box-content">
+					<strong>Xavier FINI</strong>
+					<br>Directeur de Publication
+					<br>Président de la Commission Instances et Associations Lycéennes
+					<br><br>
+					<strong>.</strong>
+					<br>Vice-Président(e) du CVL
+					<br><br>
+					<strong>.</strong>
+					<br>Secrétaire de la MDL
+					<br><br>
+					</div>
       		</section>
   
       		<input type="radio" name="accordion" id="acc-close" />

@@ -63,22 +63,26 @@
 		<br>
 		<div align="left">
 		<p style="font-size: 35px" id="numjournal">&emsp;PABLONEWS JT #4</p>
-<div class="font-monospace pt8 bg-light">
-            &emsp;&emsp;<iframe src="https://www.youtube.com/embed/VhX8A1QDs60?si=BG73eLFWYqdtkE_P" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="960" height="515" frameborder="0"></iframe>
-          </div>
+		&emsp;<a href="https://www.youtube.com/watch?v=VhX8A1QDs60">
+		<img src="Bouton éditionjt1.png" width="25%"/>
+		<a/>
+		<br>
 		<p style="font-size: 35px" id="numjournal">&emsp;PABLONEWS JT #3</p>
-<div class="font-monospace pt8 bg-light">
-			&emsp;&emsp;<iframe src="https://www.youtube.com/embed/jmuT02gQ-Hw" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="960" height="515" frameborder="0"></iframe>
-			</div>
+		&emsp;<a href="https://www.youtube.com/watch?v=jmuT02gQ-Hw">
+		<img src="Bouton éditionjt1.png" width="25%"/>
+		<a/>
+		<br>
 		<p style="font-size: 35px" id="numjournal">&emsp;PABLONEWS JT #2</p>
-<div class="font-monospace pt8 bg-light">
-             &emsp;&emsp;<iframe src="https://www.youtube.com/embed/HYty-rKMTLY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="960" height="515" frameborder="0"></iframe>
-            </div>
+		&emsp;<a href="https://www.youtube.com/watch?v=HYty-rKMTLY">
+		<img src="Bouton éditionjt1.png" width="25%"/>
+		<a/>
+		<br>
 		<p style="font-size: 35px" id="numjournal">&emsp;PABLONEWS JT #1</p>
-<div class="font-monospace pt8 bg-light">
-            &emsp;&emsp;<iframe src="https://www.youtube.com/embed/LEosfRP52UY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" width="960" height="515" frameborder="0"></iframe>
-          </div>
-		  <br><br>
+		&emsp;<a href="https://www.youtube.com/watch?v=LEosfRP52UY">
+		<img src="Bouton éditionjt1.png" width="25%"/>
+		<a/>
+		<br>
+	  <br><br>
 	</body>
 </html>
 <div align="center">

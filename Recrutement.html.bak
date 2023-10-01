@@ -18,6 +18,12 @@
 		<img src="Logo_new.png" alt="Lycée" width="450"/>
 		<img align="right" src="PabloNews_logo_officiel-removebg-preview (1).png" alt="pablonews" width="200"/>
 		<br>
+		<marquee id="acturapidefond" style="background: linear-gradient(45deg, #0500FF, #06C5FB)">
+				<div style="color: white; padding: 0.5em; float: left;">
+					<a href="#" id="acturapide"><span>La première réunion officielle du journal se déroulera en salle 148 (Salle informatique à côté du CDI) à 13h, le lundi 25 septembre&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+					<a href="#" id="acturapide"><span>La prochaine séance du Conseil d'Administration se déroulera en mi-octobre&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+				</div>
+			</marquee>
 		
 			<div align="center">
 			<ul class="menu">
@@ -64,6 +70,7 @@
 				<br><br><br>
     		</article>
 		<br><br><br>
+		<img src="5.png" width="550px"/>
 		<img src="6.png" width="550px"/>
 		<img src="7.png" width="550px"/>
 		<img src="8.png" width="550px"/>
@@ -72,6 +79,7 @@
 		<img src="11.png" width="550px"/>
 		<img src="12.png" width="550px"/>
 		<img src="13.png" width="550px"/>
+		<img src="14.png" width="550px"/>
 		<br><br>
 		
 	</body>

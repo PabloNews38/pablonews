@@ -167,7 +167,7 @@ float:left;
 
 .menu li {
     float: left;
-    width: 225px;
+    width: 175px;
 }
 
 .menu li a{
@@ -236,7 +236,7 @@ float:left;
 
 .accordion {
 	margin: auto;
-	width: 2100px;
+	width: 1190px;
 }
 .accordion input {
 	display: none;
