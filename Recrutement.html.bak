@@ -36,7 +36,7 @@
           				<li><a href="recrutement.html"><img src="recrutement.png" width="100%"/></a></li>
         				</ul>
       			</li>
-				<li><a href="pablonews.pabloneruda@gmail.com"><img src="nouscontacter.png" width="100%"/></a></li>
+				<li><a href="mailto:pablonews.pabloneruda@gmail.com"><img src="nouscontacter.png" width="100%"/></a></li>
 				<li><a href="#"><img src="noseditions.png" width="100%"/></a>
         				<ul class="sousmenu">
           				<li><a href="notre-journal.html"><img src="journal.png" width="100%"/></a></li>
@@ -58,7 +58,7 @@
 			<article class="forecast">
         		<h1>Vous êtes intéressé(e) par un des postes énoncés ci-dessous ? Alors télécharge la fiche d'inscription, en cliquant sur le bouton ci-dessous, complète la fiche et remet la au responsable qui tient la permanence au CVL ! Ce responsable vous expliquera tout le fonctionnement !</h1>
 				<br>
-				<a class="container" id="journal1" href="Dossier inscription 2324.pdf">
+				<a href="Dossier inscription 2324.pdf">
 				<img src="Bouton recrutement1.png" width="25%"
 				<a/>
 				<br><br><br>
