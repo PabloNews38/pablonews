@@ -13,6 +13,7 @@
             margin: 10px;
             width: 400px;
             float: left;
+			text-align: center;
         }
     </style>
 	</head>
