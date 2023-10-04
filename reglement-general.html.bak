@@ -2,7 +2,7 @@
 <html lang="fr">
 	<head>
 		<meta charset="utf-8">
-		<link rel="stylesheet" type="text/css" href="styleca.css">
+		<link rel="stylesheet" type="text/css" href="style.css">
 		<link rel="icon" type="image/ico" href="Logo_PabloNews-removebg-preview.png"/>
 		<title> PabloNews</title>
 	</head>
@@ -47,31 +47,14 @@
 		</td>
 		<tr>
 		<td bgcolor="white" height="300" valign="top">
-		<br><br><br><br><br><br><br><br>
+		<a href="conseil-administration.html"><img src="retour.png"/></a>
 		<div align="left">
-		<img src="cpo.png" width="70%"/>
-
-		<h3>Description</h3>
-		<ul>
-			<li>Composition : La Commission Planning et Organisation (CPO) est généralement composée de lycéens qui occupent des postes liés à la planification et à l'organisation, tels que le responsable du calendrier éditorial, le coordinateur des événements, etc.</li>
-			<li>Planification éditoriale : La CPO travaille en étroite collaboration avec la rédactrice en chef et d'autres membres du CA pour élaborer un calendrier éditorial détaillé, déterminant les dates limites pour les articles, les séances de rédaction, et les dates de publication.</li>
-		</ul>
-		<br>
-		<h3>Objectifs</h3>
-		<ul>
-			<li>Assurer le respect des délais : L'objectif principal de la CPO est de veiller à ce que le journal soit publié en temps voulu en respectant les délais éditoriaux et de production.</li>
-			<li>Soutenir le CA : La CPO soutient le Conseil d'Administration en mettant en place un calendrier réaliste et en veillant à ce que toutes les étapes de la production soient bien coordonnées.</li>
-			<li>Accroître la visibilité : Elle contribue à la promotion du journal en organisant des événements et des campagnes de sensibilisation, ce qui peut augmenter la notoriété du journal au sein du lycée.</li>
-			<li>Développer des compétences organisationnelles : Les membres de la CPO acquièrent des compétences essentielles en planification, en gestion de projet et en coordination d'événements.</li>
-		</ul>
-      		<br>
-		<div class="intro">
-			<img src="composition2.png" width="50%"/>
-			<p class="compositionp"><strong>Présidente : </strong>Lisa GAILLARD</p>
-			<p class="compositionp"><strong>Membres : </strong>Xavier FINI, Lamia GORGULU, Hugo COMBE-DARGENT</p>
-		</div>
-
 		
-		<br><br>
+    		<img src="rgpn.png" width="100%"/>
+		<br>
+		<img src="rg1.png"/>
+		<img src="rg2.png"/>
+		<img src="rg3.png"/>
+		<img src="rg4.png"/>
 	</body>
 </html>
