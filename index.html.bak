@@ -20,7 +20,7 @@
 		<br>
 		<marquee id="acturapidefond" style="background: linear-gradient(45deg, #0500FF, #06C5FB)">
 				<div style="color: white; padding: 0.5em; float: left;">
-					<a href="#" id="acturapide"><span>La prochaine séance du Conseil d'Administration se déroulera en mi-octobre. Le Directeur de Publication prendra la parole lors d'une conférence de presse en direct sur notre chaîne YouTube pour résumer la réunion du CA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+					<a href="#" id="acturapide"><span>Retrouvez les dates des réunions de la Rédaction du journal, sur la page d'accueil de notre site internet&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
 				</div>
 			</marquee>
 		
@@ -31,7 +31,6 @@
         				<ul class="sousmenu">
           				<li><a href="notre-equipe.html"><img src="lequipe.png" width="100%"/></a></li>
 						<li><a href="conseil-administration.html"><img src="noterca.png" width="100%"/></a></li>
-          				<li><a href="recrutement.html"><img src="recrutement.png" width="100%"/></a></li>
         				</ul>
       			</li>
 				<li><a href="mailto:pablonews.pabloneruda@gmail.com"><img src="nouscontacter.png" width="100%"/></a></li>
@@ -54,6 +53,24 @@
 		<div align="left">
 		<article class="forecast">
     		<h1>&ensp;<u>ACTUALITES</h1></u>
+<article class="day-forecast">
+				<p class="flotte">
+				<img src="zyro-image (3).png" alt="news" width="85"/>
+				</p>
+        		<a href="https://www.instagram.com/mdlpabloneruda38/"><strong>JOURNÉE HALLOWEEN</strong></a>
+        		<p>La MDL nous communiquera dans quelques jours la date de l'événement "Journée Halloween". Toute notre équipe sera mobilisé lors de cet événement.</p>
+				<div align="right">
+				<p size="15px"><i>Publié le 7 oct. 2023</i></p>
+    		</article>
+<article class="day-forecast">
+				<p class="flotte">
+				<img src="Logo_PabloNews-removebg-preview.png" alt="news" width="85"/>
+				</p>
+        		<a href="https://www.instagram.com/pablonews_pabloneruda"><strong>PROCHAINES RÉUNIONS DE LA RÉDACTION</strong></a>
+        		<p>La prochaine réunion de l'équipe de la Rédaction de PabloNews sera sur la semaine du 16 au 20 octobre 2023. La date exacte sera communiqué vers le 11 octobre.</p>
+				<div align="right">
+				<p size="15px"><i>Publié le 7 oct. 2023</i></p>
+    		</article>
 <article class="day-forecast">
 				<p class="flotte">
 				<img src="zyro-image (2).png" alt="news" width="85"/>
