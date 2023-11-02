@@ -31,7 +31,7 @@
 		<br>
 		<marquee id="acturapidefond" style="background: linear-gradient(45deg, #0500FF, #06C5FB)">
 				<div style="color: white; padding: 0.5em; float: left;">
-					<a href="#" id="acturapide"><span>La prochaine séance du Conseil d'Administration se déroulera en mi-octobre. Le Directeur de Publication prendra la parole lors d'une conférence de presse en direct sur notre chaîne YouTube pour résumer la réunion du CA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
+					<a href="#" id="acturapide"><span>Retrouvez les dates des réunions de la Rédaction du journal, sur la page d'accueil de notre site internet&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></a>
 				</div>
 			</marquee>
 		
@@ -42,7 +42,6 @@
         				<ul class="sousmenu">
           				<li><a href="notre-equipe.html"><img src="lequipe.png" width="100%"/></a></li>
 						<li><a href="conseil-administration.html"><img src="noterca.png" width="100%"/></a></li>
-          				<li><a href="recrutement.html"><img src="recrutement.png" width="100%"/></a></li>
         				</ul>
       			</li>
 				<li><a href="mailto:pablonews.pabloneruda@gmail.com"><img src="nouscontacter.png" width="100%"/></a></li>
@@ -139,6 +138,11 @@
 		<img src="soutien.png" width="100%"/>
 		<br>
 		<div class="membre">
+			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 1" width="50%">
+			<h2>Yannick Romero</h2>
+			<p>Coordinateur Jeunesse | Pôle Jeunesse DMU</p>
+		</div>
+<div class="membre">
 			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 1" width="50%">
 			<h2>M. MACHIRE</h2>
 			<p>Proviseur</p>
