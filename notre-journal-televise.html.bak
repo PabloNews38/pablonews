@@ -41,7 +41,7 @@
         				</ul>
       			</li>
 				<li><a href="reponses-des-jeux.html"><img src="reponsesjeux.png" width="100%"/></a></li>
-				<li><a href="https://docs.google.com/forms/d/1coj2Z9MngnarWpxN1LMbXFXD4E8GyDSQuqHK27TSZyI/prefill"><img src="ecrirearticle.png" width="100%"/></a></li>
+				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxTBJCR9pJ74XBc6oKGHF7DJXC43TJHgZHELcmpL95ZQMwxg/viewform"><img src="ecrirearticle.png" width="100%"/></a></li>
 			</ul>
 		</td>
 		<tr>
@@ -53,11 +53,15 @@
 		</article>
 		<br>
 		<div align="left">
+    <p style="font-size: 35px" id="numjournal">ANNÉE SCOLAIRE 2023-2024</p>
+	 <br><br>
 		<p style="font-size: 35px" id="numjournal">&emsp;PABLONEWS JT #4</p>
 		&emsp;<a href="https://www.youtube.com/watch?v=VhX8A1QDs60">
 		<img src="Bouton éditionjt1.png" width="25%"/>
 		<a/>
 		<br>
+    <p style="font-size: 35px" id="numjournal">ANNÉE SCOLAIRE 2022-2023</p>
+	 <br><br>
 		<p style="font-size: 35px" id="numjournal">&emsp;PABLONEWS JT #3</p>
 		&emsp;<a href="https://www.youtube.com/watch?v=jmuT02gQ-Hw">
 		<img src="Bouton éditionjt1.png" width="25%"/>
