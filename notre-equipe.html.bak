@@ -57,10 +57,10 @@
 		</td>
 		<tr>
 		<td bgcolor="white" height="300" valign="top">
-		
-		<div align="center">
+		<br><br><br><br><br>
+		<div align="left">
 		<article class="forecast">
-    		<img src="equipe.png" width="100%"/>
+    		<img src="equipe.png" width="50%"/>
 		</article>
 		
 		<br><br><br><br><br><br><br><br>
@@ -86,19 +86,19 @@
 			<h2>Gabriel HOLTZMANN</h2>
 			<p>Directeur de la Rédaction</p>
 		</div>
+<div class="membre">
+			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 4" width="50%">
+			<h2>Johan GURUNG</h2>
+			<p>Directeur Délégué de la Rédaction</p>
+		</div>
 		<div class="membre">
 			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 5" width="50%">
 			<h2>Rémi MERCIER</h2>
 			<p>Directeur de la Communication</p>
 		</div>
 		<br><br>
-		<img src="redaction.png" width="100%"/>
+		<img src="redaction.png" width="90%"/>
 		<br>
-		<div class="membre">
-			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 1" width="50%">
-			<h2>Lisa GAILLARD</h2>
-			<p>Rédactrice en Chef</p>
-		</div>
 		<div class="membre">
 			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 2" width="50%">
 			<h2>James DRAPIER</h2>
@@ -121,11 +121,6 @@
 		</div>
 		<div class="membre">
 			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 5" width="50%">
-			<h2>Johan GURUNG</h2>
-			<p>Rédacteur</p>
-		</div>
-		<div class="membre">
-			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 5" width="50%">
 			<h2>Alexi DAVID</h2>
 			<p>Rédacteur</p>
 		</div>
@@ -135,7 +130,7 @@
 			<p>Rédacteur</p>
 		</div>
 		<br><br>
-		<img src="soutien.png" width="100%"/>
+		<img src="soutien.png" width="80%"/>
 		<br>
 		<div class="membre">
 			<img src="Logo_PabloNews-removebg-preview.png" alt="Photo du membre 1" width="50%">
