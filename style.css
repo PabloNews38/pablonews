@@ -41,6 +41,11 @@ body
 	font-family: arial;
 	font-size: 30px;
 }
+@font-face
+{
+ font-family: Cloud World;
+ src: url('Cloudward.ttf') format('truetype');
+}
 #numjournal
 {
 	font-family: Cloud World, BankGothic Lt BT, arial;
