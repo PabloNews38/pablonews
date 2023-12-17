@@ -75,10 +75,8 @@
         		<label class="box-title" for="cb2"><img src="commission.png" width="20%"/></label>
         		<label class="box-close" for="acc-close"></label>
         		<div class="box-content">
-					<a class="ca" href="cpo.html"><img src="commissionsouspartie1.png" width="25%"/></a>
-					<br/><a class="ca" href="cce.html"><img src="commissionsouspartie2.png" width="25%"/></a>
-					<br/><a class="ca" href="cirh.html"><img src="commissionsouspartie3.png" width="25%"/></a>
-					<br/><a class="ca" href="cial.html"><img src="commissionsouspartie4.png" width="25%"/></a>
+					<a class="ca" href="cicc.html"><img src="commissionsouspartie1.png" width="25%"/></a>
+					<br/><a class="ca" href="cope.html"><img src="commissionsouspartie2.png" width="25%"/></a>
 					</div>
 				
       		</section>
