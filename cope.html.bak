@@ -33,11 +33,7 @@
 						<li><a href="conseil-administration.html"><img src="noterca.png" width="100%"/></a></li>
         				</ul>
       			</li>
-				<li><a href="#"><img src="nousecrire.png" width="100%"/></a></li>
-						<ul class="sousmenu">
-						<li><a href="mailto:pablonews.pabloneruda@gmail.com"><img src="nouscontacter.png" width="100%"/></a></li>
-						<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxTBJCR9pJ74XBc6oKGHF7DJXC43TJHgZHELcmpL95ZQMwxg/viewform"><img src="ecrirearticle.png" width="100%"/></a></li>
-						</ul>
+				<li><a href="mailto:pablonews.pabloneruda@gmail.com"><img src="nouscontacter.png" width="100%"/></a></li>
 				<li><a href="#"><img src="noseditions.png" width="100%"/></a>
         				<ul class="sousmenu">
           				<li><a href="notre-journal.html"><img src="journal.png" width="100%"/></a></li>
@@ -45,6 +41,7 @@
         				</ul>
       			</li>
 				<li><a href="reponses-des-jeux.html"><img src="reponsesjeux.png" width="100%"/></a></li>
+				<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxTBJCR9pJ74XBc6oKGHF7DJXC43TJHgZHELcmpL95ZQMwxg/viewform"><img src="ecrirearticle.png" width="100%"/></a></li>
 			</ul>
 		</td>
 		<tr>
@@ -53,27 +50,26 @@
 		
 		<a href="conseil-administration.html"><img src="retour.png" width="25%"/></a>
 		<br><br><br>
-		<img src="cce.png" width="40%"/>
+		<img src="cpo.png" width="40%"/>
 
 		<h3>Description</h3>
 		<ul>
-			<li>Composition : La CCE est généralement composée de lycéens qui occupent des postes liés à la communication, à la promotion et à l'organisation d'événements, tels que le responsable des médias sociaux, le responsable des relations avec les instances et associations lycéennes, etc.</li>
-			<li>Communication : Elle gère les canaux de communication du journal, y compris les médias sociaux, le site web du journal, les affichages, les bulletins d'information, et les courriers électroniques pour tenir la communauté informée des activités du journal.</li>
-			<li>Promotion : La CCE travaille à la promotion du journal en créant du contenu attractif, en organisant des campagnes publicitaires, et en mettant en place des stratégies pour augmenter la visibilité du journal auprès des élèves et du personnel du lycée.</li>
+			<li>Composition : La Commission Planning et Organisation (CPO) est généralement composée de lycéens qui occupent des postes liés à la planification et à l'organisation, tels que le responsable du calendrier éditorial, le coordinateur des événements, etc.</li>
+			<li>Planification éditoriale : La CPO travaille en étroite collaboration avec la rédactrice en chef et d'autres membres du CA pour élaborer un calendrier éditorial détaillé, déterminant les dates limites pour les articles, les séances de rédaction, et les dates de publication.</li>
 		</ul>
 		<br>
 		<h3>Objectifs</h3>
 		<ul>
-			<li>Accroître la notoriété : La principale mission de la CCE est de faire connaître le journal au sein du lycée et au-delà, en attirant l'attention sur ses activités et en augmentant son lectorat.</li>
-			<li>Engager la communauté : Elle vise à créer un lien entre le journal et la communauté scolaire en organisant des événements interactifs et en favorisant la participation des élèves et du personnel.</li>
-			<li>Soutenir la diffusion : La CCE travaille à augmenter la distribution du journal en s'assurant que les exemplaires sont facilement accessibles dans le lycée.</li>
-			<li>Développer des compétences en communication : Les membres de la CCE acquièrent des compétences précieuses en communication, en marketing et en organisation d'événements, ce qui peut être utile pour leur avenir.</li>
+			<li>Assurer le respect des délais : L'objectif principal de la CPO est de veiller à ce que le journal soit publié en temps voulu en respectant les délais éditoriaux et de production.</li>
+			<li>Soutenir le CA : La CPO soutient le Conseil d'Administration en mettant en place un calendrier réaliste et en veillant à ce que toutes les étapes de la production soient bien coordonnées.</li>
+			<li>Accroître la visibilité : Elle contribue à la promotion du journal en organisant des événements et des campagnes de sensibilisation, ce qui peut augmenter la notoriété du journal au sein du lycée.</li>
+			<li>Développer des compétences organisationnelles : Les membres de la CPO acquièrent des compétences essentielles en planification, en gestion de projet et en coordination d'événements.</li>
 		</ul>
       		<br>
 		<div class="intro">
 			<img src="composition2.png" width="50%"/>
-			<p class="compositionp"><strong>Président : </strong>Rémi MERCIER</p>
-			<p class="compositionp"><strong>Membres : </strong>Xavier FINI, Lamia GORGULU et Hugo COMBE-DARGENT</p>
+			<p class="compositionp"><strong>Présidente : </strong>Lisa GAILLARD</p>
+			<p class="compositionp"><strong>Membres : </strong>Xavier FINI, Lamia GORGULU, Hugo COMBE-DARGENT</p>
 		</div>
 
 		
