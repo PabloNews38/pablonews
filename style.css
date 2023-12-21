@@ -48,6 +48,14 @@ body
 {
 	font-family: Cloud World, BankGothic Lt BT, arial;
 }
+#numjournal1
+{
+	background:linear-gradient(45deg,cyan,blue 80%);
+	background-size: 200% auto;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color:transparent; 
+	font-family: Cloud World, BankGothic Lt BT, arial;
+}
 #journal1
 {
 	text-decoration: none;

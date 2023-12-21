@@ -1,8 +1,6 @@
 h2
 {
-	text-align: left;
 	font-family: arial, verdana;
-	color: #0B1616
 }
 h3
 {
@@ -41,8 +39,21 @@ body
 	font-family: arial;
 	font-size: 30px;
 }
+@font-face
+{
+ font-family: Cloud World;
+ src: url('Cloudward.ttf') format('truetype');
+}
 #numjournal
 {
+	font-family: Cloud World, BankGothic Lt BT, arial;
+}
+#numjournal1
+{
+	background:linear-gradient(45deg,cyan,blue 80%);
+	background-size: 200% auto;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color:transparent;
 	font-family: Cloud World, BankGothic Lt BT, arial;
 }
 #journal1
@@ -236,7 +247,7 @@ float:left;
 
 .accordion {
 	margin: auto;
-	width: 1400px;
+	width: 1500px;
 }
 .accordion input {
 	display: none;
