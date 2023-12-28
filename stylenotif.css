@@ -112,16 +112,6 @@
 .toast i:last-child:hover {
   color: var(--dark);
 }
-.buttons .btn {
-  border: none;
-  outline: none;
-  cursor: pointer;
-  margin: 0 5px;
-  color: var(--light);
-  font-size: 1.2rem;
-  padding: 10px 20px;
-  border-radius: 4px;
-}
 
 @media screen and (max-width: 530px) {
   .notifications {
