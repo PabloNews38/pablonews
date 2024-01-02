@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil du Membre du Journal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .profile-container {
+            
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3, h4, p {
+            margin: 0;
+        }
+        .badge {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            background-color: #4caf50;
+            color: white;
+            border-radius: 4px;
+        }
+        .contact-section {
+            margin-top: 20px;
+        }
+        form {
+            margin-top: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="file"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="profile-container">
+    <h1>Khadim THIOUNE</h1>
+
+    <br>
+
+    <h3>Titre ou Fonction actuelle : Rédacteur</h3>
+    <h3>Actif depuis Septembre 2023</h3>
+
+    <br>
+
+    <h2>Contributions</h2>
+    <br/>
+    <h3>Vous avez fait 1 articles au total pour le PabloNews</h3>
+    <h3>Vous avez fait 0 reportages dans le PabloNews JT</h3>
+
+    <br>
+
+    <h2>Reconnaissance et Distinctions</h2>
+    <img src="ordrecréativité.png">
+    <img src="ordremériterédactionnel.png">
+    <!-- Ajoutez d'autres badges au besoin -->
+
+    <div class="contact-section">
+        <h2>Envoyer un article (Indisponible)</h2>
+        <form action="test.php" method="post">
+            <label for="articleTitle">Titre de l’article :</label>
+            <input type="text" id="articleTitle" name="articleTitle" required>
+            
+            <label for="articleFile">Sélectionner un fichier (Word ou PDF)</label>
+            <input type="file" id="articleFile" name="articleFile" accept=".doc, .docx, .pdf" required>
+            
+            <button type="submit">Envoyer</button>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
