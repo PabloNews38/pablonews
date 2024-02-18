@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="styleconnexion.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="styleconnexion2.css">
     <link rel="icon" type="image/ico" href="Copie de Logo PabloNews officiel 23-24 (1).png"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Page de Connexion</title>
@@ -80,52 +81,29 @@
 				<li><a href="reponses-des-jeux.html"><img src="reponsesjeux.png" width="100%"/></a></li>
 			</ul>
 		</td>
-<div class="login-container">
-    <h2>Connexion</h2>
-    <br>
-    <form id="loginForm" onsubmit="validateForm(); return false;">
-        <div class="input-box">
-        <input type="text" class="username" id="username" name="username" required>
-        <label for="username" class="username-label">Nom d'utilisateur</label>
-        </div>
-        <div class="input-box">
-        <input type="password" class="username" id="password" name="password" required>
-        <label for="password" class="username-label">Mot de passe</label>
-        </div>
-        <button type="submit">Se connecter</button>
-    </form>
-</div>
+        <div class="wrapper">
+            <div class="login-box">
+              <div class="login-header">
+                <span>Connexion</span>
+              </div>
+              <div class="input_box">
+                <input type="text" id="username" class="input-field" required>
+                <label for="username" class="label">Nom d'utilisateur</label>
+                <i class="bx bx-user icon"></i>
+              </div>
+              <div class="input_box">
+                <input type="password" id="password" class="input-field" required>
+                <label for="password" class="label">Mot de passe</label>
+                <i class="bx bx-lock-alt icon"></i>
+              </div>
+              <div class="input_box">
+                <input type="submit" class="input-submit" value="Login" onclick="validateForm()">
+              </div>
+            </div>
+          </div>
+          
+          <script src="scriptconnexion.js"></script>
 
-<script>
-    var users = {
-        "xavier.fini": { "password": "X=DP!f", "redirect": "login=xavier-fini.html" },
-        "lamia.gorgulu": { "password": "L=DG!g", "redirect": "login=lamia-gorgulu.html" },
-        "hugo.combedargent": { "password": "H=DGDRE!c", "redirect": "login=hugo-combedargent.html" },
-        "gabriel.holtzmann": { "password": "G=DR!h", "redirect": "login=gabriel-holtzmann.html" },
-        "johan.gurung": { "password": "J=RC!g", "redirect": "login=johan-gurung.html" },
-        "remi.mercier": { "password": "R=DGDR!m", "redirect": "login=remi-mercier.html" },
-        "aziz.ba": { "password": "A=DCPE!b", "redirect": "login=aziz-ba.html" },
-        "amine.boulkaila": { "password": "A=MV!b", "redirect": "login=amine-boulkaila.html" },
-        "nicolas.intraluk": { "password": "N=I!i", "redirect": "login=nicolas-intraluk.html" },
-        "alexi.david": { "password": "A=R!d", "redirect": "login=alexi-david.html" },
-        "khadim.thioune": { "password": "K=R!t", "redirect": "login=khadim-thioune.html" },
-        "yannick.romero": { "password": "Y=CJ!r", "redirect": "login=yannick-romero.html" },
-        // Ajoutez d'autres utilisateurs au besoin
-    };
-
-    function validateForm() {
-        var username = document.getElementById('username').value;
-        var password = document.getElementById('password').value;
-
-        if (users.hasOwnProperty(username) && users[username].password === password) {
-            
-            // Rediriger l'utilisateur vers la page spécifiée dans l'objet users
-            window.location.href = users[username].redirect;
-        } else {
-            alert('Nom d\'utilisateur ou mot de passe incorrect.');
-        }
-    }
-</script>
 <br><br><br><br>
 </body>
 </html>
