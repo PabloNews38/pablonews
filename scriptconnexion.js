@@ -12,6 +12,7 @@ var users = {
     "nicolas.intraluk": { "password": "N=I!i", "redirect": "login=nicolas-intraluk.html" },
     "alexi.david": { "password": "A=R!d", "redirect": "login=alexi-david.html" },
     "khadim.thioune": { "password": "K=R!t", "redirect": "login=khadim-thioune.html" },
+    "administrateur": { "password": "ADMIN=DGPN!", "redirect": "login=admin.html" },
     // Ajoutez d'autres utilisateurs au besoin
 };
 
