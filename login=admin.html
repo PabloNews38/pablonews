@@ -56,9 +56,61 @@
         button:hover {
             background-color: #45a049;
         }
+
+        /*CSS pour notif alerte*/
+        .fr-alert--warning {
+            box-shadow: inset 0 0 0 1px var(--border-plain-warning), inset 2.5rem 0 0 0 var(--background-flat-warning)
+        }
+
+        .fr-alert {
+            --title-spacing: 0 0 0.25rem;
+            --text-spacing: 0 0 0.25rem;
+            box-shadow: inset 0 0 0 1px var(--border-plain-grey),inset 2.5rem 0 0 0 var(--background-flat-grey);
+            padding: 1rem 2.25rem .75rem 3.5rem;
+            position: relative;
+        }
+
+        .fr-mt-2w {
+            margin-top: 1rem!important;
+        }
+
+        .fr-alert {
+            margin-bottom: 1rem;
+        }
+
+        .fr-alert--warning:before {
+            content:"";
+        }
+
+        .fr-alert--warning:before {
+            -webkit-mask-image: url(icons/system/fr--warning-fill.svg);
+            mask-image: url(icons/system/fr--warning-fill.svg);
+        }
+
+        .fr-alert:before {
+            --icon-size: 1.5rem;
+            background-color: currentColor;
+            color: var(--text-inverted-grey);
+            display: inline-block;
+            flex: 0 0 auto;
+            height: var(--icon-size);
+            left: 0;
+            margin: 1rem .5rem;
+            -webkit-mask-size: 100% 100%;
+            mask-size: 100% 100%;
+            position: absolute;
+            top: 0;
+            vertical-align: calc((.75em - var(--icon-size))*.5);
+            width: var(--icon-size);
+        }
     </style>
 </head>
 <body>
+<div id="alerte-page-retour" class="fr-alert fr-alert--warning fr-mt-2w">
+    <p>
+        La période de dépôt des candidatures pour ce type de formation est close. 
+    </p>
+</div>
 
 <div class="profile-container">
     <a href="index.html"><img src="deconnexion.png" width="10%" align="right"></a>
