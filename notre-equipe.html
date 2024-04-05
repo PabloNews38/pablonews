@@ -21,6 +21,62 @@
 		img { 
     	    margin-right: 5px; 
 		} 
+
+		/*CSS pour nouvelle édition de présentation*/
+		.team-section {
+			margin-top: 75px;
+		}
+
+		.team-cards {
+			width: 85%;
+			display: flex;
+			justify-content: space-between;
+			margin: 20px auto;
+		}
+
+		.team-card {
+			background-color: #060721;
+			border-radius: 50px;
+			box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+			padding: 20px;
+			text-align: center;
+		}
+
+		.team-card:hover {
+			transform: translateY(-12px);
+		}
+
+		.team-image img {
+			border-radius: 50%;
+			height: 130px;
+			width: 130px;
+			object-fit: cover;
+			margin-bottom: 10px;
+		}
+
+		.team-detail h3 {
+			color: #fff;
+			font-size: 30px;
+			margin: 15px 0px;
+			font-family: 'Oswald', sans-serif;
+		}
+
+		.team-detail p {
+			color: #426385;
+			font-size: 18px;
+			font-family: 'Open Sans';
+		}
+
+		@media screen and (max-width: 768px){
+			.team-cards {
+				display: flex;
+				flex-direction: column;
+			}
+			.team-card {
+				width: 85%;
+				margin: 25px auto;
+			}
+		}
     </style>
 	</head>
 	<body style="white">
@@ -75,6 +131,21 @@
 		</article>
 		
 		<br><br><br><br><br><br><br><br>
+
+		<section class="team-section">
+			<div class="team-cards">
+				<div class="team-card">
+					<div class="team-image">
+						<img src="Copie de Logo PabloNews officiel 23-24 (1).png" alt="Photo du membre 2" width="50%">
+					</div>
+					<div class="team-detail">
+						<h3>Xavier FINI</h3>
+						<p>Directeur de Publication</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
 		<img src="dgpn.png" width="100%"/>
 		<br>
 		<div class="membre">
@@ -85,7 +156,7 @@
 			&ensp;<img src="mentionspécialecouvertureevenementielle.png" width="20%" align="left">
 			<img src="prixhonneurespritequipe.png" width="20%" align="left">
 			<br><br><br>
-			<img src="Copie de Logo PabloNews officiel 23-24 (1).png" alt="Photo du membre 1" width="50%">
+			<img src="Copie de Logo PabloNews officiel 23-24 (1).png" alt="Photo du membre 2" width="50%">
 			<h2>Xavier FINI</h2>
 			<p>Directeur de Publication</p>
 		</div>
