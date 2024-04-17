@@ -5,7 +5,7 @@ const teamMembers = [
         alias: 'Directeur de Publication',
         email: 'finixavier@gmail.com',
         status: 'Actif',
-        tags: ['dev', 'QA']
+        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation_Exceptionnelle', 'Mention_Spéciale_Couverture_Evenementielle', 'Mention_Spéciale_Engagement', 'Prix_Honneur_Esprit_Equipe']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -13,7 +13,7 @@ const teamMembers = [
         alias: 'Directrice Générale',
         email: '...',
         status: 'Actif',
-        tags: ['design', 'marketing']
+        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation_Exceptionnelle', 'Mention_Spéciale_Couverture_Evenementielle', 'Mention_Spéciale_Engagement', 'Prix_Honneur_Esprit_Equipe']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -21,7 +21,7 @@ const teamMembers = [
         email: '...',
         alias: 'Directeur Général Délégué chargé des Relations Extérieures',
         status: 'Stage',
-        tags: ['design', 'marketing']
+        tags: ['Mention_Spéciale_Engagement']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -29,7 +29,7 @@ const teamMembers = [
         email: '...',
         alias: 'Directeur Général Délégué chargé de la Communication',
         status: 'Inactif',
-        tags: ['dev']
+        tags: ['Ordre_Mérite_Rédactionnel']
     },
     {
         name: 'Aziz BA',
@@ -37,7 +37,7 @@ const teamMembers = [
         email: '...',
         alias: 'Directeur de la Coordination Photographique Evenementielle',
         status: 'Actif',
-        tags: ['marketing']
+        tags: ['Mention_Spéciale_Couverture_Evenementielle', 'Mention_Spéciale_Engagement']
     },
     {
         name: 'Gabriel HOLTZMANN',
@@ -45,7 +45,7 @@ const teamMembers = [
         email: '...',
         alias: 'Directeur de la Rédaction',
         status: 'Actif',
-        tags: ['marketing', 'design']
+        tags: []
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -53,7 +53,7 @@ const teamMembers = [
         email: '...',
         alias: 'Rédacteur en Chef',
         status: 'Actif',
-        tags: ['dev', 'marketing']
+        tags: ['Ordre_Mérite_Rédactionnel']
     },   
     {
         name: 'Alexi DAVID',
@@ -61,7 +61,7 @@ const teamMembers = [
         email: '...',
         status: 'Actif',
         alias: 'Rédacteur',
-        tags: ['dev', 'QA']
+        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Mention_Spéciale_Couverture_Evenementielle']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -69,7 +69,7 @@ const teamMembers = [
         email: '...',
         alias: 'Rédacteur',
         status: 'Actif',
-        tags: ['dev', 'marketing']
+        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Mention_Spéciale_Couverture_Evenementielle']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -77,7 +77,7 @@ const teamMembers = [
         email: '...',
         status: 'Actif', 
         alias: 'Photographe Spéciale',
-        tags: ['design', 'QA']
+        tags: ['Mention_Spéciale_Couverture_Evenementielle']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -85,7 +85,7 @@ const teamMembers = [
         email: '...',
         status: 'Stage', 
         alias: 'Illustrateur',
-        tags: ['design', 'QA']
+        tags: []
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -93,7 +93,7 @@ const teamMembers = [
         email: '...',
         status: 'Stage', 
         alias: 'Monteur Vidéo du JT',
-        tags: ['design', 'QA']
+        tags: []
     },
 ];
 
