@@ -20,7 +20,7 @@ const teamMembers = [
         name: 'Hugo COMBE-DARGENT',
         email: '...',
         alias: 'Directeur Général Délégué chargé des Relations Extérieures',
-        status: 'Inactif',
+        status: 'Stage',
         tags: ['design', 'marketing']
     },
     {
@@ -83,7 +83,7 @@ const teamMembers = [
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Nicolas INTRALUK',
         email: '...',
-        status: 'Inactif', 
+        status: 'Stage', 
         alias: 'Illustrateur',
         tags: ['design', 'QA']
     },
@@ -91,7 +91,7 @@ const teamMembers = [
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Amine BOULKAILA',
         email: '...',
-        status: 'Inactif', 
+        status: 'Stage', 
         alias: 'Monteur Vidéo du JT',
         tags: ['design', 'QA']
     },

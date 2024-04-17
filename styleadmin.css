@@ -116,17 +116,17 @@ body {
     font-weight: 700;
 }
 
-.status--active {
+.status--Actif {
     background: #EAFEF3;
     color: #2ECC71;
 }
 
-.status--inactive {
+.status--Inactif {
     background: #fff6e5;
     color: #F4BD50;
 }
 
-.status--offline {
+.status--Stage {
     background: var(--gray-mid);
     color: var(--gray);
 }
@@ -147,24 +147,44 @@ body {
     text-transform: uppercase;
 }
 
-.tag--design {
-    background: #f4efff;
-    color: #9A84DA;
+.tag--Ordre_Créativité {
+    background: #dee9ff;
+    color: #2C75FF;
 }
 
-.tag--QA {
-    color: #DF8FA8;
-    background: #fbdde7;
+.tag--Ordre_Mérite_Rédactionnel {
+    background: #fff6e0;
+    color: #F4C14E;
 }
 
-.tag--dev {
-    background: #eaf2ff;
-    color: #739FDC;
+.tag--Prix_Invertigation_Exceptionnelle {
+    background: #ffe1e1;
+    color: #8B0000;
 }
 
-.tag--marketing {
-    background: #fff6e5;
-    color: #F4BD50;
+.tag--Etoile_Plume_en_Or {
+    background: #fffadd;
+    color: #FFDE00;
+}
+
+.tag--Mention_Spéciale_Couverture_Evenementielle {
+    background: #e9ffdd;
+    color: #3FB400;
+}
+
+.tag--Mention_Spéciale_Engagement {
+    background: #e0fffc;
+    color: #00CBB9;
+}
+
+.tag--Prix_Honneur_Créativité_Editoriale {
+    background: #fff4de;
+    color: #FFA500;
+}
+
+.tag--Prix_Honneur_Esprit_Equipe {
+    background: #e1ddff;
+    color: #6A5ACD;
 }
 
 .table-widget {
