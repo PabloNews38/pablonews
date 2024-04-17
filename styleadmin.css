@@ -147,42 +147,42 @@ body {
     text-transform: uppercase;
 }
 
-.tag--Ordre_Créativité {
+.tag--Créativité {
     background: #dee9ff;
     color: #2C75FF;
 }
 
-.tag--Ordre_Mérite_Rédactionnel {
+.tag--Mérite_Rédactionnel {
     background: #fff6e0;
     color: #F4C14E;
 }
 
-.tag--Prix_Invertigation {
+.tag--Invertigation {
     background: #ffe1e1;
     color: #8B0000;
 }
 
-.tag--Etoile_Plume_en_Or {
+.tag--Plume_en_Or {
     background: #fffadd;
     color: #FFDE00;
 }
 
-.tag--Mention_Evenements {
+.tag--Evenements {
     background: #e9ffdd;
     color: #3FB400;
 }
 
-.tag--Mention_Engagement {
+.tag--Engagement {
     background: #e0fffc;
     color: #00CBB9;
 }
 
-.tag--Prix_Honneur_Créativité_Editoriale {
+.tag--Honneur_Créativité_Editoriale {
     background: #fff4de;
     color: #FFA500;
 }
 
-.tag--Prix_Honneur_Esprit_Equipe {
+.tag--Honneur_Esprit_Equipe {
     background: #e1ddff;
     color: #6A5ACD;
 }

@@ -4,35 +4,35 @@ const teamMembers = [
         name: 'Xavier FINI',
         alias: 'Directeur de Publication',
         status: 'Actif',
-        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation', 'Mention_Evenements', 'Mention_Engagement', 'Prix_Honneur_Esprit_Equipe']
+        tags: ['Créativité', 'Mérite_Rédactionnel', 'Invertigation', 'Evenements', 'Engagement', 'Honneur_Esprit_Equipe']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Lamia GORGULU',
         alias: 'Directrice Générale',
         status: 'Actif',
-        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation', 'Mention_Evenements', 'Mention_Engagement', 'Prix_Honneur_Esprit_Equipe']
+        tags: ['Créativité', 'Mérite_Rédactionnel', 'Invertigation', 'Evenements', 'Engagement', 'Honneur_Esprit_Equipe']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Hugo COMBE-DARGENT',
         alias: 'Directeur Général Délégué chargé des Relations Extérieures',
         status: 'Stage',
-        tags: ['Mention_Engagement']
+        tags: ['Engagement']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Rémi MERCIER',
         alias: 'Directeur Général Délégué chargé de la Communication',
         status: 'Inactif',
-        tags: ['Ordre_Mérite_Rédactionnel']
+        tags: ['Mérite_Rédactionnel']
     },
     {
         name: 'Aziz BA',
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         alias: 'Directeur de la Coordination Photographique Evenementielle',
         status: 'Actif',
-        tags: ['Mention_Evenements', 'Mention_Engagement']
+        tags: ['Evenements', 'Engagement']
     },
     {
         name: 'Gabriel HOLTZMANN',
@@ -46,28 +46,28 @@ const teamMembers = [
         name: 'Johan GURUNG',
         alias: 'Rédacteur en Chef',
         status: 'Actif',
-        tags: ['Ordre_Mérite_Rédactionnel']
+        tags: ['Mérite_Rédactionnel']
     },   
     {
         name: 'Alexi DAVID',
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         status: 'Actif',
         alias: 'Rédacteur',
-        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Mention_Evenements']
+        tags: ['Créativité', 'Mérite_Rédactionnel', 'Evenements']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Khadim THIOUNE',
         alias: 'Rédacteur',
         status: 'Actif',
-        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Mention_Evenements']
+        tags: ['Créativité', 'Mérite_Rédactionnel', 'Evenements']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Anaïs SILVA',
         status: 'Actif', 
         alias: 'Photographe Spéciale',
-        tags: ['Mention_Evenements']
+        tags: ['Evenements']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
