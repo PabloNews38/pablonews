@@ -4,84 +4,96 @@ const teamMembers = [
         name: 'Xavier FINI',
         alias: 'Directeur de Publication',
         status: 'Actif',
-        tags: ['Créativité', 'Mérite_Rédactionnel', 'Invertigation', 'Evenements', 'Engagement', 'Honneur_Esprit_Equipe']
+        tags: ['.']
+        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Lamia GORGULU',
         alias: 'Directrice Générale',
         status: 'Actif',
-        tags: ['Créativité', 'Mérite_Rédactionnel', 'Invertigation', 'Evenements', 'Engagement', 'Honneur_Esprit_Equipe']
+        tags: ['.']
+        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Hugo COMBE-DARGENT',
         alias: 'Directeur Général Délégué chargé des Relations Extérieures',
         status: 'Stage',
-        tags: ['Engagement']
+        tags: ['.']
+        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Rémi MERCIER',
         alias: 'Directeur Général Délégué chargé de la Communication',
         status: 'Inactif',
-        tags: ['Mérite_Rédactionnel']
+        tags: ['.']
+        tags2: ['.']
     },
     {
         name: 'Aziz BA',
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         alias: 'Directeur de la Coordination Photographique Evenementielle',
         status: 'Actif',
-        tags: ['Evenements', 'Engagement']
+        tags: ['.']
+        tags2: ['.']
     },
     {
         name: 'Gabriel HOLTZMANN',
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         alias: 'Directeur de la Rédaction',
         status: 'Actif',
-        tags: []
+        tags: ['.']
+        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Johan GURUNG',
         alias: 'Rédacteur en Chef',
         status: 'Actif',
-        tags: ['Mérite_Rédactionnel']
+        tags: ['.']
+        tags2: ['.']
     },   
     {
         name: 'Alexi DAVID',
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         status: 'Actif',
         alias: 'Rédacteur',
-        tags: ['Créativité', 'Mérite_Rédactionnel', 'Evenements']
+        tags: ['.']
+        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Khadim THIOUNE',
         alias: 'Rédacteur',
         status: 'Actif',
-        tags: ['Créativité', 'Mérite_Rédactionnel', 'Evenements']
+        tags: ['.']
+        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Anaïs SILVA',
         status: 'Actif', 
         alias: 'Photographe Spéciale',
-        tags: ['Evenements']
+        tags: ['.']
+        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Nicolas INTRALUK',
         status: 'Stage', 
         alias: 'Illustrateur',
-        tags: []
+        tags: ['.']
+        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Amine BOULKAILA',
         status: 'Stage', 
         alias: 'Monteur Vidéo du JT',
-        tags: []
+        tags: ['.']
+        tags2: ['.']
     },
 ];
 
