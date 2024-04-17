@@ -356,3 +356,17 @@ input:checked + section.box .box-title:before {
 ul{
 	font-size: 30px
 }
+
+table {
+	border-collapse: collapse;
+	border: 2px solid rgb(0, 0, 0);
+	font-family: sans-serif;
+	font-size: 0.8rem;
+  }
+  
+  
+  th,
+  td {
+	border: 1px solid rgb(0, 0, 0);
+	padding: 8px 10px;
+  }
