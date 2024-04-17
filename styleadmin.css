@@ -157,7 +157,7 @@ body {
     color: #F4C14E;
 }
 
-.tag--Prix_Invertigation_Exceptionnelle {
+.tag--Prix_Invertigation {
     background: #ffe1e1;
     color: #8B0000;
 }
@@ -167,12 +167,12 @@ body {
     color: #FFDE00;
 }
 
-.tag--Mention_Spéciale_Couverture_Evenementielle {
+.tag--Mention_Evenements {
     background: #e9ffdd;
     color: #3FB400;
 }
 
-.tag--Mention_Spéciale_Engagement {
+.tag--Mention_Engagement {
     background: #e0fffc;
     color: #00CBB9;
 }
