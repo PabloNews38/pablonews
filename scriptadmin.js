@@ -139,7 +139,7 @@ const mappedRecords = teamMembers
         </td>
         <td>
             <span class="tags2">
-                ${teamMember.tags2.map((tag) => `<span class="tag tag--${tag}">${tag}</span>`).join('')}
+                ${teamMember.tags2}
             </span>        
         </td>
     </tr>`;
