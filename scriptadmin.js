@@ -5,7 +5,6 @@ const teamMembers = [
         alias: 'Directeur de Publication',
         status: 'Actif',
         tags: ['.']
-        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -13,7 +12,6 @@ const teamMembers = [
         alias: 'Directrice Générale',
         status: 'Actif',
         tags: ['.']
-        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -21,7 +19,6 @@ const teamMembers = [
         alias: 'Directeur Général Délégué chargé des Relations Extérieures',
         status: 'Stage',
         tags: ['.']
-        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -29,7 +26,6 @@ const teamMembers = [
         alias: 'Directeur Général Délégué chargé de la Communication',
         status: 'Inactif',
         tags: ['.']
-        tags2: ['.']
     },
     {
         name: 'Aziz BA',
@@ -37,7 +33,6 @@ const teamMembers = [
         alias: 'Directeur de la Coordination Photographique Evenementielle',
         status: 'Actif',
         tags: ['.']
-        tags2: ['.']
     },
     {
         name: 'Gabriel HOLTZMANN',
@@ -45,7 +40,6 @@ const teamMembers = [
         alias: 'Directeur de la Rédaction',
         status: 'Actif',
         tags: ['.']
-        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -53,7 +47,6 @@ const teamMembers = [
         alias: 'Rédacteur en Chef',
         status: 'Actif',
         tags: ['.']
-        tags2: ['.']
     },   
     {
         name: 'Alexi DAVID',
@@ -61,7 +54,6 @@ const teamMembers = [
         status: 'Actif',
         alias: 'Rédacteur',
         tags: ['.']
-        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -69,7 +61,6 @@ const teamMembers = [
         alias: 'Rédacteur',
         status: 'Actif',
         tags: ['.']
-        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -77,7 +68,6 @@ const teamMembers = [
         status: 'Actif', 
         alias: 'Photographe Spéciale',
         tags: ['.']
-        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -85,7 +75,6 @@ const teamMembers = [
         status: 'Stage', 
         alias: 'Illustrateur',
         tags: ['.']
-        tags2: ['.']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -93,7 +82,6 @@ const teamMembers = [
         status: 'Stage', 
         alias: 'Monteur Vidéo du JT',
         tags: ['.']
-        tags2: ['.']
     },
 ];
 
@@ -132,14 +120,10 @@ const mappedRecords = teamMembers
                 ${teamMember.status}
             </span>
         </td>
+        <td>${teamMember.email}</td>
         <td>
             <span class="tags">
-                ${teamMember.tags}
-            </span>        
-        </td>
-        <td>
-            <span class="tags2">
-                ${teamMember.tags2}
+                ${teamMember.tags.map((tag) => `<span class="tag tag--${tag}">${tag}</span>`).join('')}
             </span>        
         </td>
     </tr>`;
