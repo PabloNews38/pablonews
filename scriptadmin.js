@@ -5,7 +5,7 @@ const teamMembers = [
         alias: 'Directeur de Publication',
         email: 'finixavier@gmail.com',
         status: 'Actif',
-        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation_Exceptionnelle', 'Mention_Spéciale_Couverture_Evenementielle', 'Mention_Spéciale_Engagement', 'Prix_Honneur_Esprit_Equipe']
+        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation', 'Mention_Evenements', 'Mention_Engagement', 'Prix_Honneur_Esprit_Equipe']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
@@ -13,7 +13,7 @@ const teamMembers = [
         alias: 'Directrice Générale',
         email: '...',
         status: 'Actif',
-        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation_Exceptionnelle', 'Mention_Spéciale_Couverture_Evenementielle', 'Mention_Spéciale_Engagement', 'Prix_Honneur_Esprit_Equipe']
+        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation', 'Mention_Evenements', 'Mention_Engagement', 'Prix_Honneur_Esprit_Equipe']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
