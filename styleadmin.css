@@ -143,48 +143,13 @@ body {
     font-weight: 700;
 }
 
+.tags2 {
+    display: flex;
+    gap: 0.5rem;
+}
+
 .tag::first-letter {
     text-transform: uppercase;
-}
-
-.tag--Créativité {
-    background: #dee9ff;
-    color: #2C75FF;
-}
-
-.tag--Mérite_Rédactionnel {
-    background: #fff6e0;
-    color: #F4C14E;
-}
-
-.tag--Invertigation {
-    background: #ffe1e1;
-    color: #8B0000;
-}
-
-.tag--Plume_en_Or {
-    background: #fffadd;
-    color: #FFDE00;
-}
-
-.tag--Evenements {
-    background: #e9ffdd;
-    color: #3FB400;
-}
-
-.tag--Engagement {
-    background: #e0fffc;
-    color: #00CBB9;
-}
-
-.tag--Honneur_Créativité_Editoriale {
-    background: #fff4de;
-    color: #FFA500;
-}
-
-.tag--Honneur_Esprit_Equipe {
-    background: #e1ddff;
-    color: #6A5ACD;
 }
 
 .table-widget {

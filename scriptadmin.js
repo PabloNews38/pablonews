@@ -86,7 +86,7 @@ const teamMembers = [
 ];
 
 let tableRowCount = document.getElementsByClassName('table-row-count');
-tableRowCount[0].innerHTML = `(${teamMembers.length}) Members`;
+tableRowCount[0].innerHTML = `(${teamMembers.length}) Membres`;
 
 let tableBody = document.getElementById('team-member-rows');
 
@@ -122,7 +122,12 @@ const mappedRecords = teamMembers
         </td>
         <td>
             <span class="tags">
-                ${teamMember.tags.map((tag) => `<span class="tag tag--${tag}">${tag}</span>`).join('')}
+                ${teamMember.tags}
+            </span>        
+        </td>
+        <td>
+            <span class="tags2">
+                ${teamMember.tags2}
             </span>        
         </td>
     </tr>`;
