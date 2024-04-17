@@ -3,7 +3,6 @@ const teamMembers = [
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Xavier FINI',
         alias: 'Directeur de Publication',
-        email: 'finixavier@gmail.com',
         status: 'Actif',
         tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation', 'Mention_Evenements', 'Mention_Engagement', 'Prix_Honneur_Esprit_Equipe']
     },
@@ -11,22 +10,19 @@ const teamMembers = [
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Lamia GORGULU',
         alias: 'Directrice Générale',
-        email: '...',
         status: 'Actif',
         tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Prix_Invertigation', 'Mention_Evenements', 'Mention_Engagement', 'Prix_Honneur_Esprit_Equipe']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Hugo COMBE-DARGENT',
-        email: '...',
         alias: 'Directeur Général Délégué chargé des Relations Extérieures',
         status: 'Stage',
-        tags: ['Mention_Spéciale_Engagement']
+        tags: ['Mention_Engagement']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Rémi MERCIER',
-        email: '...',
         alias: 'Directeur Général Délégué chargé de la Communication',
         status: 'Inactif',
         tags: ['Ordre_Mérite_Rédactionnel']
@@ -34,15 +30,13 @@ const teamMembers = [
     {
         name: 'Aziz BA',
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
-        email: '...',
         alias: 'Directeur de la Coordination Photographique Evenementielle',
         status: 'Actif',
-        tags: ['Mention_Spéciale_Couverture_Evenementielle', 'Mention_Spéciale_Engagement']
+        tags: ['Mention_Evenements', 'Mention_Engagement']
     },
     {
         name: 'Gabriel HOLTZMANN',
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
-        email: '...',
         alias: 'Directeur de la Rédaction',
         status: 'Actif',
         tags: []
@@ -50,7 +44,6 @@ const teamMembers = [
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Johan GURUNG',
-        email: '...',
         alias: 'Rédacteur en Chef',
         status: 'Actif',
         tags: ['Ordre_Mérite_Rédactionnel']
@@ -58,31 +51,27 @@ const teamMembers = [
     {
         name: 'Alexi DAVID',
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
-        email: '...',
         status: 'Actif',
         alias: 'Rédacteur',
-        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Mention_Spéciale_Couverture_Evenementielle']
+        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Mention_Evenements']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Khadim THIOUNE',
-        email: '...',
         alias: 'Rédacteur',
         status: 'Actif',
-        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Mention_Spéciale_Couverture_Evenementielle']
+        tags: ['Ordre_Créativité', 'Ordre_Mérite_Rédactionnel', 'Mention_Evenements']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Anaïs SILVA',
-        email: '...',
         status: 'Actif', 
         alias: 'Photographe Spéciale',
-        tags: ['Mention_Spéciale_Couverture_Evenementielle']
+        tags: ['Mention_Evenements']
     },
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Nicolas INTRALUK',
-        email: '...',
         status: 'Stage', 
         alias: 'Illustrateur',
         tags: []
@@ -90,7 +79,6 @@ const teamMembers = [
     {
         src: 'Copie de Logo PabloNews officiel 23-24 (1).png',
         name: 'Amine BOULKAILA',
-        email: '...',
         status: 'Stage', 
         alias: 'Monteur Vidéo du JT',
         tags: []
@@ -132,7 +120,6 @@ const mappedRecords = teamMembers
                 ${teamMember.status}
             </span>
         </td>
-        <td>${teamMember.email}</td>
         <td>
             <span class="tags">
                 ${teamMember.tags.map((tag) => `<span class="tag tag--${tag}">${tag}</span>`).join('')}
