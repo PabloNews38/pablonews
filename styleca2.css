@@ -11,7 +11,7 @@
     padding-top: 260px;
     justify-content: center;
   }
-  
+
   .accordion-container {
     margin: 0 auto;
     min-width: 330px;
@@ -89,7 +89,7 @@
   }
   
   .accordion-container > ul > li {
-    height: 200px;
+    height: 400px;
     display: flex;
     width: 100%;
     align-items: center;
