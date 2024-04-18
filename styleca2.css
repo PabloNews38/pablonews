@@ -80,7 +80,7 @@
   
   .main-item--open + ul {
     visibility: visible;
-    max-height: 400px;
+    max-height: 600px;
     opacity: 1;
     border-radius: 0px 0px 8px 8px;
     display: flex;
@@ -89,7 +89,7 @@
   }
   
   .accordion-container > ul > li {
-    height: 400px;
+    height: 200px;
     display: flex;
     width: 100%;
     align-items: center;
