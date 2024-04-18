@@ -9,12 +9,7 @@
       font-family: "Poppins";
   }
   
-  body {
-      height: 100vh;
-    display: flex;
-    padding-top: 260px;
-    justify-content: center;
-  }
+
   
   * {
     box-sizing: border-box;
